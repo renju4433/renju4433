@@ -42,6 +42,26 @@ npm run dev                           # 127.0.0.1:3000
 
 `python/models/` 里已包含训练好的模型和球队状态快照，无需先训练即可启动。
 
+## 免费部署
+
+不花钱、不绑卡的两段式部署：
+
+| 部分 | 平台 | 免费额度 |
+|---|---|---|
+| Python 预测服务 | [Wispbyte](https://wispbyte.com) | 512MB 内存 / 1GB 存储 / 24 小时常驻 |
+| Next.js 前端 | [Vercel](https://vercel.com) | Hobby 计划 |
+
+服务实测常驻 270MB，所以 Wispbyte 只承载后端，前端交给 Vercel。
+完整步骤（建服务器 → 传代码 → 改启动命令 → 配环境变量）见
+[`deploy/wispbyte/README.md`](deploy/wispbyte/README.md)。
+
+前端只需两个环境变量指向后端：
+
+```
+PYTHON_PREDICTOR_URL=http://<wispbyte-地址>/predict/soccer
+PYTHON_OBSERVE_URL=http://<wispbyte-地址>/observe
+```
+
 ## 模型
 
 ### 特征（11 维）

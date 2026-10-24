@@ -1,0 +1,15 @@
+# 云端运行依赖（Wispbyte 容器内 pip install --user 安装）
+#
+# 为什么钉死版本：
+#   models/xgb_home.json、xgb_away.json 是 xgboost 3.2.0 保存的，
+#   低版本 Booster.load_model 会直接报错（JSON 格式不兼容）。
+#   numpy / scipy 也跟着钉住，避免新版 ABI 变化导致 import 失败。
+#
+# 安装后体积约 300MB（xgboost 139M + scipy 117M + numpy 32M）。
+
+xgboost==3.2.0
+numpy==2.2.2
+scipy==1.15.3
+fastapi==0.135.3
+uvicorn==0.42.0
+pydantic==2.10.4

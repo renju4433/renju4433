@@ -37,6 +37,9 @@ next-env.d.ts
 __pycache__/
 *.py[cod]
 
+# 部署打包产物（本地生成，按需重跑 pack.py）
+deploy/wispbyte/*.zip
+
 # next.js 构建产物备份（.next 改名留下的，约 160M）
 .next.stale.bak/
 

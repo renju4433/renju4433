@@ -1,7 +1,8 @@
 """足球预测服务：完全 XGBoost（count:poisson）预测进球数 + Dixon-Coles 比分矩阵。
 
 启动：
-    python soccer_predictor_api.py            # 127.0.0.1:8001
+    python soccer_predictor_api.py            # 本机默认 127.0.0.1:8001
+    PORT=8080 python soccer_predictor_api.py  # 云平台：绑定 0.0.0.0:$PORT
     uvicorn soccer_predictor_api:app --port 8001
 
 接口：
@@ -251,7 +252,24 @@ def observe_refresh() -> Dict[str, Any]:
     return auto_observe.trigger()
 
 
-if __name__ == "__main__":
+def _serve() -> None:
+    """本地直跑。云平台（Wispbyte / Render / Cloud Run 等）会注入 PORT，
+    并且要求绑定 0.0.0.0，否则容器外部访问不通。
+    Pterodactyl 系面板（Wispbyte 就是）有时用 SERVER_PORT，这里一起兼容。"""
+    import os
+
     import uvicorn
 
-    uvicorn.run(app, host="127.0.0.1", port=8001, log_level="warning")
+    port_env = (os.environ.get("PORT") or os.environ.get("SERVER_PORT") or "").strip()
+    if port_env:
+        host = os.environ.get("HOST", "0.0.0.0")
+        port = int(port_env)
+    else:
+        host, port = "127.0.0.1", 8001
+
+    print(f"[serve] listening on http://{host}:{port}", flush=True)
+    uvicorn.run(app, host=host, port=port, log_level="info")
+
+
+if __name__ == "__main__":
+    _serve()
