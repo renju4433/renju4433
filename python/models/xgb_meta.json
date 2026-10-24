@@ -1,0 +1,487 @@
+{
+  "model": "XGBoost (count:poisson) + Dixon-Coles",
+  "objective": "count:poisson",
+  "features": [
+    "home_h_gf",
+    "home_h_ga",
+    "home_a_gf",
+    "home_a_ga",
+    "away_h_gf",
+    "away_h_ga",
+    "away_a_gf",
+    "away_a_ga",
+    "elo_home",
+    "elo_away",
+    "elo_diff"
+  ],
+  "featureLabels": {
+    "home_h_gf": "主队主场场均进球",
+    "home_h_ga": "主队主场场均失球",
+    "home_a_gf": "主队客场场均进球",
+    "home_a_ga": "主队客场场均失球",
+    "away_h_gf": "客队主场场均进球",
+    "away_h_ga": "客队主场场均失球",
+    "away_a_gf": "客队客场场均进球",
+    "away_a_ga": "客队客场场均失球",
+    "elo_home": "主队赛前Elo",
+    "elo_away": "客队赛前Elo",
+    "elo_diff": "Elo分差(主-客)"
+  },
+  "leagues": [
+    "CSL",
+    "D1",
+    "E0",
+    "F1",
+    "I1",
+    "SP1"
+  ],
+  "byLeague": {
+    "CSL": {
+      "n": 720,
+      "wdlLogLoss": 0.97389,
+      "brier": 0.57813,
+      "accuracy": 0.5417,
+      "correctScoreLogLoss": 3.01706,
+      "lambdaMAE": 0.94257
+    },
+    "D1": {
+      "n": 806,
+      "wdlLogLoss": 1.0127,
+      "brier": 0.60561,
+      "accuracy": 0.50619,
+      "correctScoreLogLoss": 3.08834,
+      "lambdaMAE": 0.98243
+    },
+    "E0": {
+      "n": 1008,
+      "wdlLogLoss": 1.00482,
+      "brier": 0.60112,
+      "accuracy": 0.52577,
+      "correctScoreLogLoss": 3.02733,
+      "lambdaMAE": 0.94375
+    },
+    "F1": {
+      "n": 802,
+      "wdlLogLoss": 1.02148,
+      "brier": 0.61255,
+      "accuracy": 0.49376,
+      "correctScoreLogLoss": 2.9823,
+      "lambdaMAE": 0.9568
+    },
+    "I1": {
+      "n": 1004,
+      "wdlLogLoss": 0.99574,
+      "brier": 0.59484,
+      "accuracy": 0.5229,
+      "correctScoreLogLoss": 2.79482,
+      "lambdaMAE": 0.86269
+    },
+    "SP1": {
+      "n": 1002,
+      "wdlLogLoss": 0.99036,
+      "brier": 0.58887,
+      "accuracy": 0.51898,
+      "correctScoreLogLoss": 2.82834,
+      "lambdaMAE": 0.85552
+    }
+  },
+  "elo": {
+    "k": 32.0,
+    "homeAdvantage": 65.0,
+    "initial": 1500.0,
+    "tuningLogLoss": 1.00263,
+    "featureImportanceTotal": 0.5723,
+    "ratingRange": {
+      "min": 1213.6,
+      "max": 1886.3
+    },
+    "topTeams": [
+      {
+        "team": "Bayern Munich",
+        "elo": 1886.3
+      },
+      {
+        "team": "Inter",
+        "elo": 1844.7
+      },
+      {
+        "team": "Barcelona",
+        "elo": 1834.7
+      },
+      {
+        "team": "Arsenal",
+        "elo": 1787.5
+      },
+      {
+        "team": "Paris SG",
+        "elo": 1776.6
+      },
+      {
+        "team": "Real Madrid",
+        "elo": 1768.4
+      },
+      {
+        "team": "Man City",
+        "elo": 1767.2
+      },
+      {
+        "team": "Dortmund",
+        "elo": 1734.1
+      }
+    ]
+  },
+  "rho": -0.03027,
+  "trainedAt": "2026-10-24T05:16:20.475136+00:00",
+  "trainMatches": 7181,
+  "testMatches": 5342,
+  "testSeason": "2526",
+  "seasons": [
+    "2223",
+    "2324",
+    "2425",
+    "2526",
+    "2627"
+  ],
+  "homeBestIteration": 159,
+  "awayBestIteration": 89,
+  "featureImportanceHome": {
+    "home_h_gf": 0.0928,
+    "home_h_ga": 0.0423,
+    "home_a_gf": 0.0627,
+    "home_a_ga": 0.0353,
+    "away_h_gf": 0.035,
+    "away_h_ga": 0.0484,
+    "away_a_gf": 0.0422,
+    "away_a_ga": 0.069,
+    "elo_home": 0.165,
+    "elo_away": 0.0698,
+    "elo_diff": 0.3375
+  },
+  "featureImportanceAway": {
+    "home_h_gf": 0.0407,
+    "home_h_ga": 0.0466,
+    "home_a_gf": 0.0401,
+    "home_a_ga": 0.0485,
+    "away_h_gf": 0.1065,
+    "away_h_ga": 0.0501,
+    "away_a_gf": 0.061,
+    "away_a_ga": 0.0406,
+    "elo_home": 0.1058,
+    "elo_away": 0.1432,
+    "elo_diff": 0.317
+  },
+  "featureImportanceGroups": {
+    "venue": 0.4277,
+    "elo": 0.5723
+  },
+  "evaluation": {
+    "scheme": "walk-forward",
+    "description": "按联赛分别做日期截断：每折训练集只取该联赛测试集起点之前的比赛",
+    "folds": [
+      "2324",
+      "2425",
+      "2526"
+    ],
+    "primaryMetric": "wdlLogLoss（按场次加权 pooled）",
+    "decision": "采用 场均+Elo(11)：胜平负 logloss 0.99992，较场均基线 -0.00839 ± 0.00222 (显著)",
+    "eloDelta": {
+      "mean": -0.00839,
+      "stderr": 0.00222
+    },
+    "featureSetComparison": [
+      {
+        "scheme": "场均(8)",
+        "pooledLogLoss": 1.00829,
+        "foldLogLoss": [
+          1.02096,
+          0.99903,
+          1.005
+        ],
+        "stderr": 0.00655,
+        "brier": 0.60262,
+        "accuracy": 0.50564,
+        "lambdaMAE": 0.92597,
+        "poissonDeviance": 1.12002
+      },
+      {
+        "scheme": "场均+Elo(11)",
+        "pooledLogLoss": 0.99992,
+        "foldLogLoss": [
+          1.00854,
+          0.99107,
+          1.00022
+        ],
+        "stderr": 0.00505,
+        "brier": 0.59694,
+        "accuracy": 0.51833,
+        "lambdaMAE": 0.91961,
+        "poissonDeviance": 1.11002
+      }
+    ],
+    "foldDetail": [
+      {
+        "season": "2324",
+        "n": 1770,
+        "trainMatches": 1615,
+        "lambdaMAE": 0.9249,
+        "poissonDeviance": 1.13718,
+        "wdlLogLoss": 1.00854,
+        "brier": 0.60266,
+        "accuracy": 0.5164,
+        "correctScoreLogLoss": 2.97348,
+        "byLeague": {
+          "CSL": {
+            "n": 240,
+            "lambdaMAE": 0.8902,
+            "wdlLogLoss": 1.01011,
+            "brier": 0.60341,
+            "accuracy": 0.5042,
+            "correctScoreLogLoss": 2.92533
+          },
+          "D1": {
+            "n": 270,
+            "lambdaMAE": 0.9659,
+            "wdlLogLoss": 1.01078,
+            "brier": 0.60391,
+            "accuracy": 0.5148,
+            "correctScoreLogLoss": 3.10071
+          },
+          "E0": {
+            "n": 328,
+            "lambdaMAE": 1.0103,
+            "wdlLogLoss": 0.97588,
+            "brier": 0.57889,
+            "accuracy": 0.5762,
+            "correctScoreLogLoss": 3.20471
+          },
+          "F1": {
+            "n": 266,
+            "lambdaMAE": 0.9148,
+            "wdlLogLoss": 1.04909,
+            "brier": 0.63255,
+            "accuracy": 0.4699,
+            "correctScoreLogLoss": 2.90811
+          },
+          "I1": {
+            "n": 334,
+            "lambdaMAE": 0.8596,
+            "wdlLogLoss": 1.01281,
+            "brier": 0.6066,
+            "accuracy": 0.506,
+            "correctScoreLogLoss": 2.82632
+          },
+          "SP1": {
+            "n": 332,
+            "lambdaMAE": 0.9062,
+            "wdlLogLoss": 1.00106,
+            "brier": 0.59668,
+            "accuracy": 0.5151,
+            "correctScoreLogLoss": 2.87679
+          }
+        },
+        "rho": 0.01719
+      },
+      {
+        "season": "2425",
+        "n": 1784,
+        "trainMatches": 3385,
+        "lambdaMAE": 0.9231,
+        "poissonDeviance": 1.10875,
+        "wdlLogLoss": 0.99107,
+        "brier": 0.59102,
+        "accuracy": 0.5252,
+        "correctScoreLogLoss": 2.95086,
+        "byLeague": {
+          "CSL": {
+            "n": 240,
+            "lambdaMAE": 1.0105,
+            "wdlLogLoss": 0.95458,
+            "brier": 0.5638,
+            "accuracy": 0.5542,
+            "correctScoreLogLoss": 3.09756
+          },
+          "D1": {
+            "n": 268,
+            "lambdaMAE": 1.0203,
+            "wdlLogLoss": 1.05802,
+            "brier": 0.63901,
+            "accuracy": 0.4664,
+            "correctScoreLogLoss": 3.12753
+          },
+          "E0": {
+            "n": 340,
+            "lambdaMAE": 0.9456,
+            "wdlLogLoss": 1.00733,
+            "brier": 0.60345,
+            "accuracy": 0.5176,
+            "correctScoreLogLoss": 3.00371
+          },
+          "F1": {
+            "n": 268,
+            "lambdaMAE": 0.9414,
+            "wdlLogLoss": 0.9922,
+            "brier": 0.59032,
+            "accuracy": 0.5373,
+            "correctScoreLogLoss": 3.00761
+          },
+          "I1": {
+            "n": 332,
+            "lambdaMAE": 0.8327,
+            "wdlLogLoss": 0.95902,
+            "brier": 0.56988,
+            "accuracy": 0.5512,
+            "correctScoreLogLoss": 2.75799
+          },
+          "SP1": {
+            "n": 336,
+            "lambdaMAE": 0.8349,
+            "wdlLogLoss": 0.97806,
+            "brier": 0.58107,
+            "accuracy": 0.5238,
+            "correctScoreLogLoss": 2.79699
+          }
+        },
+        "rho": -0.0363
+      },
+      {
+        "season": "2526",
+        "n": 1788,
+        "trainMatches": 5169,
+        "lambdaMAE": 0.9109,
+        "poissonDeviance": 1.08439,
+        "wdlLogLoss": 1.00022,
+        "brier": 0.59717,
+        "accuracy": 0.5134,
+        "correctScoreLogLoss": 2.91804,
+        "byLeague": {
+          "CSL": {
+            "n": 240,
+            "lambdaMAE": 0.927,
+            "wdlLogLoss": 0.95697,
+            "brier": 0.56719,
+            "accuracy": 0.5667,
+            "correctScoreLogLoss": 3.02829
+          },
+          "D1": {
+            "n": 268,
+            "lambdaMAE": 0.9612,
+            "wdlLogLoss": 0.9693,
+            "brier": 0.57392,
+            "accuracy": 0.5373,
+            "correctScoreLogLoss": 3.0367
+          },
+          "E0": {
+            "n": 340,
+            "lambdaMAE": 0.8777,
+            "wdlLogLoss": 1.03023,
+            "brier": 0.62025,
+            "accuracy": 0.4853,
+            "correctScoreLogLoss": 2.87984
+          },
+          "F1": {
+            "n": 268,
+            "lambdaMAE": 1.0139,
+            "wdlLogLoss": 1.02336,
+            "brier": 0.61492,
+            "accuracy": 0.4739,
+            "correctScoreLogLoss": 3.03064
+          },
+          "I1": {
+            "n": 338,
+            "lambdaMAE": 0.8952,
+            "wdlLogLoss": 1.01493,
+            "brier": 0.60774,
+            "accuracy": 0.5118,
+            "correctScoreLogLoss": 2.79988
+          },
+          "SP1": {
+            "n": 334,
+            "lambdaMAE": 0.8259,
+            "wdlLogLoss": 0.99209,
+            "brier": 0.58895,
+            "accuracy": 0.518,
+            "correctScoreLogLoss": 2.81172
+          }
+        },
+        "rho": -0.02776
+      }
+    ],
+    "byLeague": {
+      "CSL": {
+        "n": 720,
+        "wdlLogLoss": 0.97389,
+        "brier": 0.57813,
+        "accuracy": 0.5417,
+        "correctScoreLogLoss": 3.01706,
+        "lambdaMAE": 0.94257
+      },
+      "D1": {
+        "n": 806,
+        "wdlLogLoss": 1.0127,
+        "brier": 0.60561,
+        "accuracy": 0.50619,
+        "correctScoreLogLoss": 3.08834,
+        "lambdaMAE": 0.98243
+      },
+      "E0": {
+        "n": 1008,
+        "wdlLogLoss": 1.00482,
+        "brier": 0.60112,
+        "accuracy": 0.52577,
+        "correctScoreLogLoss": 3.02733,
+        "lambdaMAE": 0.94375
+      },
+      "F1": {
+        "n": 802,
+        "wdlLogLoss": 1.02148,
+        "brier": 0.61255,
+        "accuracy": 0.49376,
+        "correctScoreLogLoss": 2.9823,
+        "lambdaMAE": 0.9568
+      },
+      "I1": {
+        "n": 1004,
+        "wdlLogLoss": 0.99574,
+        "brier": 0.59484,
+        "accuracy": 0.5229,
+        "correctScoreLogLoss": 2.79482,
+        "lambdaMAE": 0.86269
+      },
+      "SP1": {
+        "n": 1002,
+        "wdlLogLoss": 0.99036,
+        "brier": 0.58887,
+        "accuracy": 0.51898,
+        "correctScoreLogLoss": 2.82834,
+        "lambdaMAE": 0.85552
+      }
+    }
+  },
+  "metrics": {
+    "xgboost": {
+      "n": 5342,
+      "wdlLogLoss": 0.99992,
+      "brier": 0.59694,
+      "accuracy": 0.51833,
+      "correctScoreLogLoss": 2.94737,
+      "lambdaMAE": 0.91961,
+      "poissonDeviance": 1.11002,
+      "stderr": 0.00505
+    },
+    "baselineNoElo": {
+      "n": 5342,
+      "wdlLogLoss": 1.00829,
+      "brier": 0.60262,
+      "accuracy": 0.50564,
+      "correctScoreLogLoss": 2.95739,
+      "lambdaMAE": 0.92597,
+      "poissonDeviance": 1.12002,
+      "foldLogLoss": [
+        1.02096,
+        0.99903,
+        1.005
+      ],
+      "stderr": 0.00655
+    }
+  }
+}

@@ -1,0 +1,1606 @@
+{
+ "teams": {
+  "Ajaccio": {
+   "league": "F1",
+   "home_gf": 9.0,
+   "home_ga": 26.0,
+   "home_n": 16.0,
+   "away_gf": 11.0,
+   "away_ga": 40.0,
+   "away_n": 17.0
+  },
+  "Alaves": {
+   "league": "SP1",
+   "home_gf": 53.0,
+   "home_ga": 57.0,
+   "home_n": 52.0,
+   "away_gf": 51.0,
+   "away_ga": 80.0,
+   "away_n": 49.0
+  },
+  "Almeria": {
+   "league": "SP1",
+   "home_gf": 45.0,
+   "home_ga": 46.0,
+   "home_n": 32.0,
+   "away_gf": 38.0,
+   "away_ga": 77.0,
+   "away_n": 34.0
+  },
+  "Angers": {
+   "league": "F1",
+   "home_gf": 52.0,
+   "home_ga": 80.0,
+   "home_n": 47.0,
+   "away_gf": 33.0,
+   "away_ga": 78.0,
+   "away_n": 46.0
+  },
+  "Arsenal": {
+   "league": "E0",
+   "home_gf": 153.0,
+   "home_ga": 61.0,
+   "home_n": 67.0,
+   "away_gf": 131.0,
+   "away_ga": 63.0,
+   "away_n": 68.0
+  },
+  "Aston Villa": {
+   "league": "E0",
+   "home_gf": 135.0,
+   "home_ga": 81.0,
+   "home_n": 68.0,
+   "away_gf": 85.0,
+   "away_ga": 99.0,
+   "away_n": 67.0
+  },
+  "Atalanta": {
+   "league": "I1",
+   "home_gf": 122.0,
+   "home_ga": 72.0,
+   "home_n": 68.0,
+   "away_gf": 109.0,
+   "away_ga": 70.0,
+   "away_n": 66.0
+  },
+  "Ath Bilbao": {
+   "league": "SP1",
+   "home_gf": 104.0,
+   "home_ga": 57.0,
+   "home_n": 64.0,
+   "away_gf": 72.0,
+   "away_ga": 95.0,
+   "away_n": 69.0
+  },
+  "Ath Madrid": {
+   "league": "SP1",
+   "home_gf": 148.0,
+   "home_ga": 63.0,
+   "home_n": 68.0,
+   "away_gf": 89.0,
+   "away_ga": 72.0,
+   "away_n": 66.0
+  },
+  "Augsburg": {
+   "league": "D1",
+   "home_gf": 68.0,
+   "home_ga": 73.0,
+   "home_n": 59.0,
+   "away_gf": 80.0,
+   "away_ga": 118.0,
+   "away_n": 60.0
+  },
+  "Auxerre": {
+   "league": "F1",
+   "home_gf": 53.0,
+   "home_ga": 54.0,
+   "home_n": 47.0,
+   "away_gf": 51.0,
+   "away_ga": 80.0,
+   "away_n": 46.0
+  },
+  "Barcelona": {
+   "league": "SP1",
+   "home_gf": 160.0,
+   "home_ga": 54.0,
+   "home_n": 68.0,
+   "away_gf": 129.0,
+   "away_ga": 73.0,
+   "away_n": 65.0
+  },
+  "Bayern Munich": {
+   "league": "D1",
+   "home_gf": 205.0,
+   "home_ga": 59.0,
+   "home_n": 60.0,
+   "away_gf": 140.0,
+   "away_ga": 79.0,
+   "away_n": 59.0
+  },
+  "Beijing Guoan": {
+   "league": "CSL",
+   "home_gf": 140.0,
+   "home_ga": 69.0,
+   "home_n": 59.0,
+   "away_gf": 100.0,
+   "away_ga": 80.0,
+   "away_n": 59.0
+  },
+  "Betis": {
+   "league": "SP1",
+   "home_gf": 108.0,
+   "home_ga": 74.0,
+   "home_n": 67.0,
+   "away_gf": 80.0,
+   "away_ga": 88.0,
+   "away_n": 66.0
+  },
+  "Bochum": {
+   "league": "D1",
+   "home_gf": 65.0,
+   "home_ga": 79.0,
+   "home_n": 45.0,
+   "away_gf": 40.0,
+   "away_ga": 105.0,
+   "away_n": 45.0
+  },
+  "Bologna": {
+   "league": "I1",
+   "home_gf": 100.0,
+   "home_ga": 59.0,
+   "home_n": 68.0,
+   "away_gf": 100.0,
+   "away_ga": 95.0,
+   "away_n": 68.0
+  },
+  "Bournemouth": {
+   "league": "E0",
+   "home_gf": 92.0,
+   "home_ga": 83.0,
+   "home_n": 67.0,
+   "away_gf": 98.0,
+   "away_ga": 121.0,
+   "away_n": 68.0
+  },
+  "Brentford": {
+   "league": "E0",
+   "home_gf": 119.0,
+   "home_ga": 98.0,
+   "home_n": 67.0,
+   "away_gf": 88.0,
+   "away_ga": 97.0,
+   "away_n": 68.0
+  },
+  "Brest": {
+   "league": "F1",
+   "home_gf": 90.0,
+   "home_ga": 65.0,
+   "home_n": 61.0,
+   "away_gf": 73.0,
+   "away_ga": 100.0,
+   "away_n": 61.0
+  },
+  "Brighton": {
+   "league": "E0",
+   "home_gf": 113.0,
+   "home_ga": 86.0,
+   "home_n": 67.0,
+   "away_gf": 102.0,
+   "away_ga": 118.0,
+   "away_n": 68.0
+  },
+  "Burnley": {
+   "league": "E0",
+   "home_gf": 32.0,
+   "home_ga": 59.0,
+   "home_n": 32.0,
+   "away_gf": 39.0,
+   "away_ga": 72.0,
+   "away_n": 34.0
+  },
+  "Cadiz": {
+   "league": "SP1",
+   "home_gf": 30.0,
+   "home_ga": 35.0,
+   "home_n": 33.0,
+   "away_gf": 21.0,
+   "away_ga": 56.0,
+   "away_n": 34.0
+  },
+  "Cagliari": {
+   "league": "I1",
+   "home_gf": 70.0,
+   "home_ga": 71.0,
+   "home_n": 48.0,
+   "away_gf": 42.0,
+   "away_ga": 89.0,
+   "away_n": 51.0
+  },
+  "Cangzhou Mighty Lions": {
+   "league": "CSL",
+   "home_gf": 32.0,
+   "home_ga": 43.0,
+   "home_n": 30.0,
+   "away_gf": 30.0,
+   "away_ga": 74.0,
+   "away_n": 30.0
+  },
+  "Celta": {
+   "league": "SP1",
+   "home_gf": 94.0,
+   "home_ga": 77.0,
+   "home_n": 65.0,
+   "away_gf": 80.0,
+   "away_ga": 106.0,
+   "away_n": 68.0
+  },
+  "Changchun Yatai": {
+   "league": "CSL",
+   "home_gf": 68.0,
+   "home_ga": 68.0,
+   "home_n": 45.0,
+   "away_gf": 48.0,
+   "away_ga": 90.0,
+   "away_n": 45.0
+  },
+  "Chelsea": {
+   "league": "E0",
+   "home_gf": 114.0,
+   "home_ga": 80.0,
+   "home_n": 67.0,
+   "away_gf": 96.0,
+   "away_ga": 106.0,
+   "away_n": 68.0
+  },
+  "Chengdu Rongcheng": {
+   "league": "CSL",
+   "home_gf": 126.0,
+   "home_ga": 51.0,
+   "home_n": 59.0,
+   "away_gf": 101.0,
+   "away_ga": 74.0,
+   "away_n": 59.0
+  },
+  "Chongqing Tonglianglong": {
+   "league": "CSL",
+   "home_gf": 18.0,
+   "home_ga": 18.0,
+   "home_n": 14.0,
+   "away_gf": 11.0,
+   "away_ga": 16.0,
+   "away_n": 14.0
+  },
+  "Clermont": {
+   "league": "F1",
+   "home_gf": 31.0,
+   "home_ga": 44.0,
+   "home_n": 31.0,
+   "away_gf": 30.0,
+   "away_ga": 46.0,
+   "away_n": 32.0
+  },
+  "Como": {
+   "league": "I1",
+   "home_gf": 55.0,
+   "home_ga": 36.0,
+   "home_n": 34.0,
+   "away_gf": 45.0,
+   "away_ga": 31.0,
+   "away_n": 32.0
+  },
+  "Coventry City": {
+   "league": "E0",
+   "home_gf": 0.0,
+   "home_ga": 0.0,
+   "home_n": 0.0,
+   "away_gf": 1.0,
+   "away_ga": 3.0,
+   "away_n": 1.0
+  },
+  "Cremonese": {
+   "league": "I1",
+   "home_gf": 29.0,
+   "home_ga": 56.0,
+   "home_n": 34.0,
+   "away_gf": 30.0,
+   "away_ga": 58.0,
+   "away_n": 33.0
+  },
+  "Crystal Palace": {
+   "league": "E0",
+   "home_gf": 92.0,
+   "home_ga": 87.0,
+   "home_n": 68.0,
+   "away_gf": 77.0,
+   "away_ga": 99.0,
+   "away_n": 67.0
+  },
+  "Dalian Pro": {
+   "league": "CSL",
+   "home_gf": 15.0,
+   "home_ga": 20.0,
+   "home_n": 15.0,
+   "away_gf": 10.0,
+   "away_ga": 27.0,
+   "away_n": 15.0
+  },
+  "Dalian Yingbo": {
+   "league": "CSL",
+   "home_gf": 41.0,
+   "home_ga": 31.0,
+   "home_n": 29.0,
+   "away_gf": 34.0,
+   "away_ga": 57.0,
+   "away_n": 29.0
+  },
+  "Darmstadt": {
+   "league": "D1",
+   "home_gf": 11.0,
+   "home_ga": 37.0,
+   "home_n": 15.0,
+   "away_gf": 14.0,
+   "away_ga": 36.0,
+   "away_n": 15.0
+  },
+  "Dortmund": {
+   "league": "D1",
+   "home_gf": 160.0,
+   "home_ga": 67.0,
+   "home_n": 60.0,
+   "away_gf": 101.0,
+   "away_ga": 86.0,
+   "away_n": 60.0
+  },
+  "Ein Frankfurt": {
+   "league": "D1",
+   "home_gf": 118.0,
+   "home_ga": 74.0,
+   "home_n": 60.0,
+   "away_gf": 91.0,
+   "away_ga": 112.0,
+   "away_n": 60.0
+  },
+  "Elche": {
+   "league": "SP1",
+   "home_gf": 43.0,
+   "home_ga": 41.0,
+   "home_n": 33.0,
+   "away_gf": 28.0,
+   "away_ga": 66.0,
+   "away_n": 34.0
+  },
+  "Empoli": {
+   "league": "I1",
+   "home_gf": 46.0,
+   "home_ga": 67.0,
+   "home_n": 50.0,
+   "away_gf": 46.0,
+   "away_ga": 77.0,
+   "away_n": 50.0
+  },
+  "Espanol": {
+   "league": "SP1",
+   "home_gf": 62.0,
+   "home_ga": 69.0,
+   "home_n": 50.0,
+   "away_gf": 59.0,
+   "away_ga": 89.0,
+   "away_n": 51.0
+  },
+  "Everton": {
+   "league": "E0",
+   "home_gf": 85.0,
+   "home_ga": 84.0,
+   "home_n": 67.0,
+   "away_gf": 64.0,
+   "away_ga": 88.0,
+   "away_n": 68.0
+  },
+  "FC Koln": {
+   "league": "D1",
+   "home_gf": 63.0,
+   "home_ga": 69.0,
+   "home_n": 45.0,
+   "away_gf": 44.0,
+   "away_ga": 88.0,
+   "away_n": 44.0
+  },
+  "Fiorentina": {
+   "league": "I1",
+   "home_gf": 105.0,
+   "home_ga": 68.0,
+   "home_n": 66.0,
+   "away_gf": 87.0,
+   "away_ga": 86.0,
+   "away_n": 68.0
+  },
+  "Freiburg": {
+   "league": "D1",
+   "home_gf": 107.0,
+   "home_ga": 78.0,
+   "home_n": 60.0,
+   "away_gf": 61.0,
+   "away_ga": 109.0,
+   "away_n": 60.0
+  },
+  "Frosinone": {
+   "league": "I1",
+   "home_gf": 21.0,
+   "home_ga": 26.0,
+   "home_n": 16.0,
+   "away_gf": 15.0,
+   "away_ga": 36.0,
+   "away_n": 17.0
+  },
+  "Fulham": {
+   "league": "E0",
+   "home_gf": 108.0,
+   "home_ga": 93.0,
+   "home_n": 68.0,
+   "away_gf": 85.0,
+   "away_ga": 102.0,
+   "away_n": 67.0
+  },
+  "Genoa": {
+   "league": "I1",
+   "home_gf": 64.0,
+   "home_ga": 61.0,
+   "home_n": 50.0,
+   "away_gf": 49.0,
+   "away_ga": 66.0,
+   "away_n": 51.0
+  },
+  "Getafe": {
+   "league": "SP1",
+   "home_gf": 71.0,
+   "home_ga": 74.0,
+   "home_n": 69.0,
+   "away_gf": 60.0,
+   "away_ga": 77.0,
+   "away_n": 66.0
+  },
+  "Girona": {
+   "league": "SP1",
+   "home_gf": 123.0,
+   "home_ga": 92.0,
+   "home_n": 68.0,
+   "away_gf": 82.0,
+   "away_ga": 99.0,
+   "away_n": 67.0
+  },
+  "Granada": {
+   "league": "SP1",
+   "home_gf": 21.0,
+   "home_ga": 28.0,
+   "home_n": 17.0,
+   "away_gf": 10.0,
+   "away_ga": 39.0,
+   "away_n": 17.0
+  },
+  "Hamburg": {
+   "league": "D1",
+   "home_gf": 23.0,
+   "home_ga": 19.0,
+   "home_n": 15.0,
+   "away_gf": 15.0,
+   "away_ga": 27.0,
+   "away_n": 15.0
+  },
+  "Heidenheim": {
+   "league": "D1",
+   "home_gf": 55.0,
+   "home_ga": 83.0,
+   "home_n": 45.0,
+   "away_gf": 55.0,
+   "away_ga": 83.0,
+   "away_n": 45.0
+  },
+  "Henan": {
+   "league": "CSL",
+   "home_gf": 89.0,
+   "home_ga": 67.0,
+   "home_n": 59.0,
+   "away_gf": 70.0,
+   "away_ga": 98.0,
+   "away_n": 59.0
+  },
+  "Hertha": {
+   "league": "D1",
+   "home_gf": 23.0,
+   "home_ga": 25.0,
+   "home_n": 15.0,
+   "away_gf": 17.0,
+   "away_ga": 38.0,
+   "away_n": 15.0
+  },
+  "Hoffenheim": {
+   "league": "D1",
+   "home_gf": 105.0,
+   "home_ga": 99.0,
+   "home_n": 60.0,
+   "away_gf": 88.0,
+   "away_ga": 112.0,
+   "away_n": 60.0
+  },
+  "Holstein Kiel": {
+   "league": "D1",
+   "home_gf": 23.0,
+   "home_ga": 33.0,
+   "home_n": 15.0,
+   "away_gf": 21.0,
+   "away_ga": 34.0,
+   "away_n": 15.0
+  },
+  "Inter": {
+   "league": "I1",
+   "home_gf": 140.0,
+   "home_ga": 57.0,
+   "home_n": 66.0,
+   "away_gf": 143.0,
+   "away_ga": 61.0,
+   "away_n": 68.0
+  },
+  "Ipswich": {
+   "league": "E0",
+   "home_gf": 14.0,
+   "home_ga": 42.0,
+   "home_n": 18.0,
+   "away_gf": 21.0,
+   "away_ga": 34.0,
+   "away_n": 17.0
+  },
+  "Juventus": {
+   "league": "I1",
+   "home_gf": 111.0,
+   "home_ga": 51.0,
+   "home_n": 67.0,
+   "away_gf": 88.0,
+   "away_ga": 74.0,
+   "away_n": 68.0
+  },
+  "Las Palmas": {
+   "league": "SP1",
+   "home_gf": 35.0,
+   "home_ga": 42.0,
+   "home_n": 33.0,
+   "away_gf": 31.0,
+   "away_ga": 52.0,
+   "away_n": 33.0
+  },
+  "Lazio": {
+   "league": "I1",
+   "home_gf": 98.0,
+   "home_ga": 74.0,
+   "home_n": 67.0,
+   "away_gf": 89.0,
+   "away_ga": 61.0,
+   "away_n": 67.0
+  },
+  "Le Havre": {
+   "league": "F1",
+   "home_gf": 41.0,
+   "home_ga": 68.0,
+   "home_n": 45.0,
+   "away_gf": 46.0,
+   "away_ga": 72.0,
+   "away_n": 45.0
+  },
+  "Lecce": {
+   "league": "I1",
+   "home_gf": 51.0,
+   "home_ga": 92.0,
+   "home_n": 67.0,
+   "away_gf": 54.0,
+   "away_ga": 90.0,
+   "away_n": 67.0
+  },
+  "Leeds": {
+   "league": "E0",
+   "home_gf": 49.0,
+   "home_ga": 57.0,
+   "home_n": 34.0,
+   "away_gf": 40.0,
+   "away_ga": 67.0,
+   "away_n": 34.0
+  },
+  "Leganes": {
+   "league": "SP1",
+   "home_gf": 21.0,
+   "home_ga": 25.0,
+   "home_n": 17.0,
+   "away_gf": 15.0,
+   "away_ga": 26.0,
+   "away_n": 16.0
+  },
+  "Leicester": {
+   "league": "E0",
+   "home_gf": 33.0,
+   "home_ga": 54.0,
+   "home_n": 34.0,
+   "away_gf": 40.0,
+   "away_ga": 77.0,
+   "away_n": 34.0
+  },
+  "Lens": {
+   "league": "F1",
+   "home_gf": 106.0,
+   "home_ga": 57.0,
+   "home_n": 61.0,
+   "away_gf": 88.0,
+   "away_ga": 60.0,
+   "away_n": 61.0
+  },
+  "Levante": {
+   "league": "SP1",
+   "home_gf": 25.0,
+   "home_ga": 24.0,
+   "home_n": 18.0,
+   "away_gf": 20.0,
+   "away_ga": 29.0,
+   "away_n": 17.0
+  },
+  "Leverkusen": {
+   "league": "D1",
+   "home_gf": 136.0,
+   "home_ga": 57.0,
+   "home_n": 59.0,
+   "away_gf": 109.0,
+   "away_ga": 77.0,
+   "away_n": 59.0
+  },
+  "Liaoning Tieren": {
+   "league": "CSL",
+   "home_gf": 21.0,
+   "home_ga": 21.0,
+   "home_n": 14.0,
+   "away_gf": 15.0,
+   "away_ga": 25.0,
+   "away_n": 14.0
+  },
+  "Lille": {
+   "league": "F1",
+   "home_gf": 115.0,
+   "home_ga": 62.0,
+   "home_n": 62.0,
+   "away_gf": 74.0,
+   "away_ga": 65.0,
+   "away_n": 62.0
+  },
+  "Liverpool": {
+   "league": "E0",
+   "home_gf": 148.0,
+   "home_ga": 65.0,
+   "home_n": 68.0,
+   "away_gf": 121.0,
+   "away_ga": 103.0,
+   "away_n": 67.0
+  },
+  "Lorient": {
+   "league": "F1",
+   "home_gf": 68.0,
+   "home_ga": 65.0,
+   "home_n": 47.0,
+   "away_gf": 54.0,
+   "away_ga": 79.0,
+   "away_n": 45.0
+  },
+  "Luton": {
+   "league": "E0",
+   "home_gf": 26.0,
+   "home_ga": 34.0,
+   "home_n": 17.0,
+   "away_gf": 23.0,
+   "away_ga": 40.0,
+   "away_n": 16.0
+  },
+  "Lyon": {
+   "league": "F1",
+   "home_gf": 104.0,
+   "home_ga": 71.0,
+   "home_n": 60.0,
+   "away_gf": 100.0,
+   "away_ga": 89.0,
+   "away_n": 62.0
+  },
+  "M'gladbach": {
+   "league": "D1",
+   "home_gf": 105.0,
+   "home_ga": 78.0,
+   "home_n": 60.0,
+   "away_gf": 82.0,
+   "away_ga": 126.0,
+   "away_n": 61.0
+  },
+  "Mainz": {
+   "league": "D1",
+   "home_gf": 95.0,
+   "home_ga": 74.0,
+   "home_n": 60.0,
+   "away_gf": 77.0,
+   "away_ga": 99.0,
+   "away_n": 60.0
+  },
+  "Mallorca": {
+   "league": "SP1",
+   "home_gf": 86.0,
+   "home_ga": 61.0,
+   "home_n": 68.0,
+   "away_gf": 52.0,
+   "away_ga": 104.0,
+   "away_n": 67.0
+  },
+  "Man City": {
+   "league": "E0",
+   "home_gf": 176.0,
+   "home_ga": 63.0,
+   "home_n": 68.0,
+   "away_gf": 117.0,
+   "away_ga": 68.0,
+   "away_n": 67.0
+  },
+  "Man United": {
+   "league": "E0",
+   "home_gf": 117.0,
+   "home_ga": 76.0,
+   "home_n": 67.0,
+   "away_gf": 91.0,
+   "away_ga": 100.0,
+   "away_n": 67.0
+  },
+  "Marseille": {
+   "league": "F1",
+   "home_gf": 125.0,
+   "home_ga": 73.0,
+   "home_n": 62.0,
+   "away_gf": 93.0,
+   "away_ga": 85.0,
+   "away_n": 62.0
+  },
+  "Meizhou Hakka": {
+   "league": "CSL",
+   "home_gf": 62.0,
+   "home_ga": 79.0,
+   "home_n": 45.0,
+   "away_gf": 45.0,
+   "away_ga": 101.0,
+   "away_n": 45.0
+  },
+  "Metz": {
+   "league": "F1",
+   "home_gf": 27.0,
+   "home_ga": 53.0,
+   "home_n": 30.0,
+   "away_gf": 30.0,
+   "away_ga": 64.0,
+   "away_n": 29.0
+  },
+  "Milan": {
+   "league": "I1",
+   "home_gf": 115.0,
+   "home_ga": 67.0,
+   "home_n": 68.0,
+   "away_gf": 106.0,
+   "away_ga": 85.0,
+   "away_n": 67.0
+  },
+  "Monaco": {
+   "league": "F1",
+   "home_gf": 122.0,
+   "home_ga": 77.0,
+   "home_n": 62.0,
+   "away_gf": 106.0,
+   "away_ga": 100.0,
+   "away_n": 62.0
+  },
+  "Montpellier": {
+   "league": "F1",
+   "home_gf": 57.0,
+   "home_ga": 80.0,
+   "home_n": 47.0,
+   "away_gf": 52.0,
+   "away_ga": 80.0,
+   "away_n": 47.0
+  },
+  "Monza": {
+   "league": "I1",
+   "home_gf": 59.0,
+   "home_ga": 72.0,
+   "home_n": 52.0,
+   "away_gf": 53.0,
+   "away_ga": 81.0,
+   "away_n": 51.0
+  },
+  "Málaga": {
+   "league": "SP1",
+   "home_gf": 0.0,
+   "home_ga": 0.0,
+   "home_n": 0.0,
+   "away_gf": 1.0,
+   "away_ga": 1.0,
+   "away_n": 1.0
+  },
+  "Nantes": {
+   "league": "F1",
+   "home_gf": 61.0,
+   "home_ga": 90.0,
+   "home_n": 61.0,
+   "away_gf": 56.0,
+   "away_ga": 106.0,
+   "away_n": 62.0
+  },
+  "Nantong Zhiyun": {
+   "league": "CSL",
+   "home_gf": 23.0,
+   "home_ga": 49.0,
+   "home_n": 30.0,
+   "away_gf": 35.0,
+   "away_ga": 59.0,
+   "away_n": 30.0
+  },
+  "Napoli": {
+   "league": "I1",
+   "home_gf": 112.0,
+   "home_ga": 67.0,
+   "home_n": 68.0,
+   "away_gf": 101.0,
+   "away_ga": 57.0,
+   "away_n": 68.0
+  },
+  "Newcastle": {
+   "league": "E0",
+   "home_gf": 141.0,
+   "home_ga": 76.0,
+   "home_n": 66.0,
+   "away_gf": 108.0,
+   "away_ga": 104.0,
+   "away_n": 68.0
+  },
+  "Nice": {
+   "league": "F1",
+   "home_gf": 85.0,
+   "home_ga": 63.0,
+   "home_n": 60.0,
+   "away_gf": 79.0,
+   "away_ga": 80.0,
+   "away_n": 62.0
+  },
+  "Nott'm Forest": {
+   "league": "E0",
+   "home_gf": 91.0,
+   "home_ga": 83.0,
+   "home_n": 68.0,
+   "away_gf": 86.0,
+   "away_ga": 128.0,
+   "away_n": 68.0
+  },
+  "Osasuna": {
+   "league": "SP1",
+   "home_gf": 92.0,
+   "home_ga": 85.0,
+   "home_n": 65.0,
+   "away_gf": 61.0,
+   "away_ga": 95.0,
+   "away_n": 68.0
+  },
+  "Oviedo": {
+   "league": "SP1",
+   "home_gf": 8.0,
+   "home_ga": 15.0,
+   "home_n": 17.0,
+   "away_gf": 17.0,
+   "away_ga": 38.0,
+   "away_n": 17.0
+  },
+  "Paris FC": {
+   "league": "F1",
+   "home_gf": 23.0,
+   "home_ga": 22.0,
+   "home_n": 15.0,
+   "away_gf": 15.0,
+   "away_ga": 16.0,
+   "away_n": 14.0
+  },
+  "Paris SG": {
+   "league": "F1",
+   "home_gf": 150.0,
+   "home_ga": 67.0,
+   "home_n": 61.0,
+   "away_gf": 132.0,
+   "away_ga": 54.0,
+   "away_n": 62.0
+  },
+  "Parma": {
+   "league": "I1",
+   "home_gf": 31.0,
+   "home_ga": 46.0,
+   "home_n": 33.0,
+   "away_gf": 28.0,
+   "away_ga": 43.0,
+   "away_n": 33.0
+  },
+  "Pisa": {
+   "league": "I1",
+   "home_gf": 9.0,
+   "home_ga": 24.0,
+   "home_n": 17.0,
+   "away_gf": 14.0,
+   "away_ga": 41.0,
+   "away_n": 17.0
+  },
+  "Qingdao Hainiu": {
+   "league": "CSL",
+   "home_gf": 84.0,
+   "home_ga": 92.0,
+   "home_n": 59.0,
+   "away_gf": 47.0,
+   "away_ga": 116.0,
+   "away_n": 59.0
+  },
+  "Qingdao West Coast": {
+   "league": "CSL",
+   "home_gf": 61.0,
+   "home_ga": 60.0,
+   "home_n": 44.0,
+   "away_gf": 50.0,
+   "away_ga": 78.0,
+   "away_n": 44.0
+  },
+  "RB Leipzig": {
+   "league": "D1",
+   "home_gf": 129.0,
+   "home_ga": 69.0,
+   "home_n": 59.0,
+   "away_gf": 98.0,
+   "away_ga": 88.0,
+   "away_n": 60.0
+  },
+  "Real Madrid": {
+   "league": "SP1",
+   "home_gf": 162.0,
+   "home_ga": 55.0,
+   "home_n": 67.0,
+   "away_gf": 112.0,
+   "away_ga": 65.0,
+   "away_n": 65.0
+  },
+  "Reims": {
+   "league": "F1",
+   "home_gf": 56.0,
+   "home_ga": 56.0,
+   "home_n": 47.0,
+   "away_gf": 44.0,
+   "away_ga": 60.0,
+   "away_n": 46.0
+  },
+  "Rennes": {
+   "league": "F1",
+   "home_gf": 113.0,
+   "home_ga": 68.0,
+   "home_n": 62.0,
+   "away_gf": 94.0,
+   "away_ga": 97.0,
+   "away_n": 62.0
+  },
+  "Roma": {
+   "league": "I1",
+   "home_gf": 117.0,
+   "home_ga": 52.0,
+   "home_n": 67.0,
+   "away_gf": 87.0,
+   "away_ga": 86.0,
+   "away_n": 67.0
+  },
+  "Salernitana": {
+   "league": "I1",
+   "home_gf": 41.0,
+   "home_ga": 58.0,
+   "home_n": 33.0,
+   "away_gf": 30.0,
+   "away_ga": 74.0,
+   "away_n": 34.0
+  },
+  "Sampdoria": {
+   "league": "I1",
+   "home_gf": 11.0,
+   "home_ga": 25.0,
+   "home_n": 16.0,
+   "away_gf": 11.0,
+   "away_ga": 37.0,
+   "away_n": 17.0
+  },
+  "Sassuolo": {
+   "league": "I1",
+   "home_gf": 67.0,
+   "home_ga": 78.0,
+   "home_n": 51.0,
+   "away_gf": 57.0,
+   "away_ga": 87.0,
+   "away_n": 50.0
+  },
+  "Schalke 04": {
+   "league": "D1",
+   "home_gf": 20.0,
+   "home_ga": 28.0,
+   "home_n": 15.0,
+   "away_gf": 11.0,
+   "away_ga": 32.0,
+   "away_n": 15.0
+  },
+  "Sevilla": {
+   "league": "SP1",
+   "home_gf": 83.0,
+   "home_ga": 84.0,
+   "home_n": 66.0,
+   "away_gf": 79.0,
+   "away_ga": 109.0,
+   "away_n": 67.0
+  },
+  "Shandong Taishan": {
+   "league": "CSL",
+   "home_gf": 140.0,
+   "home_ga": 59.0,
+   "home_n": 59.0,
+   "away_gf": 89.0,
+   "away_ga": 96.0,
+   "away_n": 59.0
+  },
+  "Shanghai Port": {
+   "league": "CSL",
+   "home_gf": 145.0,
+   "home_ga": 65.0,
+   "home_n": 59.0,
+   "away_gf": 129.0,
+   "away_ga": 71.0,
+   "away_n": 59.0
+  },
+  "Shanghai Shenhua": {
+   "league": "CSL",
+   "home_gf": 135.0,
+   "home_ga": 69.0,
+   "home_n": 59.0,
+   "away_gf": 101.0,
+   "away_ga": 65.0,
+   "away_n": 59.0
+  },
+  "Sheffield United": {
+   "league": "E0",
+   "home_gf": 16.0,
+   "home_ga": 52.0,
+   "home_n": 16.0,
+   "away_gf": 14.0,
+   "away_ga": 43.0,
+   "away_n": 17.0
+  },
+  "Shenzhen FC": {
+   "league": "CSL",
+   "home_gf": 12.0,
+   "home_ga": 33.0,
+   "home_n": 15.0,
+   "away_gf": 10.0,
+   "away_ga": 46.0,
+   "away_n": 15.0
+  },
+  "Shenzhen Xinpengcheng": {
+   "league": "CSL",
+   "home_gf": 66.0,
+   "home_ga": 74.0,
+   "home_n": 44.0,
+   "away_gf": 35.0,
+   "away_ga": 90.0,
+   "away_n": 44.0
+  },
+  "Sociedad": {
+   "league": "SP1",
+   "home_gf": 95.0,
+   "home_ga": 69.0,
+   "home_n": 67.0,
+   "away_gf": 82.0,
+   "away_ga": 90.0,
+   "away_n": 68.0
+  },
+  "Southampton": {
+   "league": "E0",
+   "home_gf": 30.0,
+   "home_ga": 77.0,
+   "home_n": 34.0,
+   "away_gf": 26.0,
+   "away_ga": 66.0,
+   "away_n": 34.0
+  },
+  "Spezia": {
+   "league": "I1",
+   "home_gf": 15.0,
+   "home_ga": 28.0,
+   "home_n": 17.0,
+   "away_gf": 13.0,
+   "away_ga": 27.0,
+   "away_n": 17.0
+  },
+  "St Etienne": {
+   "league": "F1",
+   "home_gf": 23.0,
+   "home_ga": 31.0,
+   "home_n": 15.0,
+   "away_gf": 15.0,
+   "away_ga": 31.0,
+   "away_n": 14.0
+  },
+  "St Pauli": {
+   "league": "D1",
+   "home_gf": 21.0,
+   "home_ga": 42.0,
+   "home_n": 29.0,
+   "away_gf": 27.0,
+   "away_ga": 45.0,
+   "away_n": 30.0
+  },
+  "Strasbourg": {
+   "league": "F1",
+   "home_gf": 98.0,
+   "home_ga": 82.0,
+   "home_n": 62.0,
+   "away_gf": 82.0,
+   "away_ga": 95.0,
+   "away_n": 61.0
+  },
+  "Stuttgart": {
+   "league": "D1",
+   "home_gf": 118.0,
+   "home_ga": 77.0,
+   "home_n": 61.0,
+   "away_gf": 106.0,
+   "away_ga": 100.0,
+   "away_n": 59.0
+  },
+  "Sunderland": {
+   "league": "E0",
+   "home_gf": 20.0,
+   "home_ga": 19.0,
+   "home_n": 17.0,
+   "away_gf": 17.0,
+   "away_ga": 26.0,
+   "away_n": 17.0
+  },
+  "Tianjin Jinmen Tiger": {
+   "league": "CSL",
+   "home_gf": 85.0,
+   "home_ga": 67.0,
+   "home_n": 59.0,
+   "away_gf": 77.0,
+   "away_ga": 82.0,
+   "away_n": 59.0
+  },
+  "Torino": {
+   "league": "I1",
+   "home_gf": 75.0,
+   "home_ga": 72.0,
+   "home_n": 68.0,
+   "away_gf": 73.0,
+   "away_ga": 92.0,
+   "away_n": 67.0
+  },
+  "Tottenham": {
+   "league": "E0",
+   "home_gf": 119.0,
+   "home_ga": 115.0,
+   "home_n": 69.0,
+   "away_gf": 104.0,
+   "away_ga": 119.0,
+   "away_n": 67.0
+  },
+  "Toulouse": {
+   "league": "F1",
+   "home_gf": 79.0,
+   "home_ga": 83.0,
+   "home_n": 61.0,
+   "away_gf": 82.0,
+   "away_ga": 83.0,
+   "away_n": 62.0
+  },
+  "Troyes": {
+   "league": "F1",
+   "home_gf": 16.0,
+   "home_ga": 26.0,
+   "home_n": 17.0,
+   "away_gf": 23.0,
+   "away_ga": 44.0,
+   "away_n": 17.0
+  },
+  "Udinese": {
+   "league": "I1",
+   "home_gf": 86.0,
+   "home_ga": 89.0,
+   "home_n": 68.0,
+   "away_gf": 67.0,
+   "away_ga": 95.0,
+   "away_n": 67.0
+  },
+  "Union Berlin": {
+   "league": "D1",
+   "home_gf": 80.0,
+   "home_ga": 78.0,
+   "home_n": 60.0,
+   "away_gf": 51.0,
+   "away_ga": 104.0,
+   "away_n": 60.0
+  },
+  "Valencia": {
+   "league": "SP1",
+   "home_gf": 81.0,
+   "home_ga": 68.0,
+   "home_n": 65.0,
+   "away_gf": 68.0,
+   "away_ga": 107.0,
+   "away_n": 68.0
+  },
+  "Valladolid": {
+   "league": "SP1",
+   "home_gf": 30.0,
+   "home_ga": 54.0,
+   "home_n": 34.0,
+   "away_gf": 26.0,
+   "away_ga": 81.0,
+   "away_n": 34.0
+  },
+  "Vallecano": {
+   "league": "SP1",
+   "home_gf": 84.0,
+   "home_ga": 74.0,
+   "home_n": 68.0,
+   "away_gf": 50.0,
+   "away_ga": 92.0,
+   "away_n": 65.0
+  },
+  "Venezia": {
+   "league": "I1",
+   "home_gf": 15.0,
+   "home_ga": 21.0,
+   "home_n": 17.0,
+   "away_gf": 14.0,
+   "away_ga": 27.0,
+   "away_n": 16.0
+  },
+  "Verona": {
+   "league": "I1",
+   "home_gf": 60.0,
+   "home_ga": 110.0,
+   "home_n": 67.0,
+   "away_gf": 48.0,
+   "away_ga": 99.0,
+   "away_n": 66.0
+  },
+  "Villarreal": {
+   "league": "SP1",
+   "home_gf": 139.0,
+   "home_ga": 83.0,
+   "home_n": 67.0,
+   "away_gf": 93.0,
+   "away_ga": 97.0,
+   "away_n": 66.0
+  },
+  "Werder Bremen": {
+   "league": "D1",
+   "home_gf": 83.0,
+   "home_ga": 90.0,
+   "home_n": 60.0,
+   "away_gf": 79.0,
+   "away_ga": 108.0,
+   "away_n": 60.0
+  },
+  "West Ham": {
+   "league": "E0",
+   "home_gf": 100.0,
+   "home_ga": 95.0,
+   "home_n": 68.0,
+   "away_gf": 74.0,
+   "away_ga": 132.0,
+   "away_n": 67.0
+  },
+  "Wolfsburg": {
+   "league": "D1",
+   "home_gf": 94.0,
+   "home_ga": 100.0,
+   "home_n": 60.0,
+   "away_gf": 81.0,
+   "away_ga": 101.0,
+   "away_n": 60.0
+  },
+  "Wolves": {
+   "league": "E0",
+   "home_gf": 83.0,
+   "home_ga": 93.0,
+   "home_n": 68.0,
+   "away_gf": 65.0,
+   "away_ga": 131.0,
+   "away_n": 66.0
+  },
+  "Wuhan Three Towns": {
+   "league": "CSL",
+   "home_gf": 77.0,
+   "home_ga": 87.0,
+   "home_n": 59.0,
+   "away_gf": 80.0,
+   "away_ga": 104.0,
+   "away_n": 59.0
+  },
+  "Yunnan Yukun": {
+   "league": "CSL",
+   "home_gf": 58.0,
+   "home_ga": 42.0,
+   "home_n": 29.0,
+   "away_gf": 45.0,
+   "away_ga": 69.0,
+   "away_n": 29.0
+  },
+  "Zhejiang": {
+   "league": "CSL",
+   "home_gf": 131.0,
+   "home_ga": 86.0,
+   "home_n": 59.0,
+   "away_gf": 88.0,
+   "away_ga": 111.0,
+   "away_n": 59.0
+  }
+ },
+ "leagues": {
+  "CSL": {
+   "home": {
+    "gf": 1629.0,
+    "ga": 1250.0,
+    "n": 944.0
+   },
+   "away": {
+    "gf": 1250.0,
+    "ga": 1629.0,
+    "n": 944.0
+   }
+  },
+  "D1": {
+   "home": {
+    "gf": 1907.0,
+    "ga": 1488.0,
+    "n": 1077.0
+   },
+   "away": {
+    "gf": 1488.0,
+    "ga": 1907.0,
+    "n": 1077.0
+   }
+  },
+  "E0": {
+   "home": {
+    "gf": 2206.0,
+    "ga": 1813.0,
+    "n": 1350.0
+   },
+   "away": {
+    "gf": 1813.0,
+    "ga": 2206.0,
+    "n": 1350.0
+   }
+  },
+  "F1": {
+   "home": {
+    "gf": 1704.0,
+    "ga": 1463.0,
+    "n": 1139.0
+   },
+   "away": {
+    "gf": 1463.0,
+    "ga": 1704.0,
+    "n": 1139.0
+   }
+  },
+  "I1": {
+   "home": {
+    "gf": 1825.0,
+    "ga": 1599.0,
+    "n": 1343.0
+   },
+   "away": {
+    "gf": 1599.0,
+    "ga": 1825.0,
+    "n": 1343.0
+   }
+  },
+  "SP1": {
+   "home": {
+    "gf": 2003.0,
+    "ga": 1506.0,
+    "n": 1338.0
+   },
+   "away": {
+    "gf": 1506.0,
+    "ga": 2003.0,
+    "n": 1338.0
+   }
+  }
+ },
+ "global": {
+  "home": {
+   "gf": 11274.0,
+   "ga": 9119.0,
+   "n": 7191.0
+  },
+  "away": {
+   "gf": 9119.0,
+   "ga": 11274.0,
+   "n": 7191.0
+  }
+ },
+ "elo": {
+  "params": {
+   "k": 32.0,
+   "homeAdvantage": 65.0,
+   "initial": 1500.0
+  },
+  "ratings": {
+   "Ajaccio": 1299.1,
+   "Alaves": 1466.1,
+   "Almeria": 1371.5,
+   "Angers": 1404.6,
+   "Arsenal": 1787.5,
+   "Aston Villa": 1614.0,
+   "Atalanta": 1641.0,
+   "Ath Bilbao": 1468.3,
+   "Ath Madrid": 1627.5,
+   "Augsburg": 1501.5,
+   "Auxerre": 1542.4,
+   "Barcelona": 1834.7,
+   "Bayern Munich": 1886.3,
+   "Beijing Guoan": 1717.5,
+   "Betis": 1617.7,
+   "Bochum": 1377.4,
+   "Bologna": 1567.8,
+   "Bournemouth": 1634.5,
+   "Brentford": 1567.1,
+   "Brest": 1460.1,
+   "Brighton": 1565.2,
+   "Burnley": 1313.0,
+   "Cadiz": 1380.7,
+   "Cagliari": 1426.9,
+   "Cangzhou Mighty Lions": 1404.5,
+   "Celta": 1558.6,
+   "Changchun Yatai": 1360.6,
+   "Chelsea": 1524.0,
+   "Chengdu Rongcheng": 1649.0,
+   "Chongqing Tonglianglong": 1477.9,
+   "Clermont": 1398.2,
+   "Como": 1710.8,
+   "Coventry City": 1475.8,
+   "Cremonese": 1389.5,
+   "Crystal Palace": 1492.5,
+   "Dalian Pro": 1350.5,
+   "Dalian Yingbo": 1600.3,
+   "Darmstadt": 1283.2,
+   "Dortmund": 1734.1,
+   "Ein Frankfurt": 1514.7,
+   "Elche": 1462.5,
+   "Empoli": 1371.9,
+   "Espanol": 1450.4,
+   "Everton": 1511.1,
+   "FC Koln": 1384.5,
+   "Fiorentina": 1576.8,
+   "Freiburg": 1537.5,
+   "Frosinone": 1407.1,
+   "Fulham": 1543.1,
+   "Genoa": 1490.8,
+   "Getafe": 1513.6,
+   "Girona": 1479.3,
+   "Granada": 1334.7,
+   "Hamburg": 1484.5,
+   "Heidenheim": 1401.4,
+   "Henan": 1531.5,
+   "Hertha": 1374.5,
+   "Hoffenheim": 1573.6,
+   "Holstein Kiel": 1404.8,
+   "Inter": 1844.7,
+   "Ipswich": 1310.2,
+   "Juventus": 1668.9,
+   "Las Palmas": 1361.8,
+   "Lazio": 1593.3,
+   "Le Havre": 1465.8,
+   "Lecce": 1455.8,
+   "Leeds": 1516.1,
+   "Leganes": 1455.2,
+   "Leicester": 1301.8,
+   "Lens": 1679.8,
+   "Levante": 1538.7,
+   "Leverkusen": 1661.9,
+   "Liaoning Tieren": 1484.1,
+   "Lille": 1642.4,
+   "Liverpool": 1607.1,
+   "Lorient": 1527.2,
+   "Luton": 1344.4,
+   "Lyon": 1620.6,
+   "M'gladbach": 1528.1,
+   "Mainz": 1545.2,
+   "Mallorca": 1489.8,
+   "Man City": 1767.2,
+   "Man United": 1692.3,
+   "Marseille": 1601.7,
+   "Meizhou Hakka": 1317.4,
+   "Metz": 1310.1,
+   "Milan": 1617.9,
+   "Monaco": 1599.2,
+   "Montpellier": 1270.5,
+   "Monza": 1309.1,
+   "Málaga": 1501.5,
+   "Nantes": 1398.8,
+   "Nantong Zhiyun": 1335.5,
+   "Napoli": 1685.8,
+   "Newcastle": 1542.8,
+   "Nice": 1496.5,
+   "Nott'm Forest": 1562.9,
+   "Osasuna": 1464.2,
+   "Oviedo": 1394.2,
+   "Paris FC": 1583.2,
+   "Paris SG": 1776.6,
+   "Parma": 1460.8,
+   "Pisa": 1302.0,
+   "Qingdao Hainiu": 1342.3,
+   "Qingdao West Coast": 1554.7,
+   "RB Leipzig": 1621.3,
+   "Real Madrid": 1768.4,
+   "Reims": 1411.7,
+   "Rennes": 1631.0,
+   "Roma": 1725.6,
+   "Salernitana": 1279.3,
+   "Sampdoria": 1294.7,
+   "Sassuolo": 1497.0,
+   "Schalke 04": 1423.5,
+   "Sevilla": 1449.8,
+   "Shandong Taishan": 1638.5,
+   "Shanghai Port": 1723.7,
+   "Shanghai Shenhua": 1676.0,
+   "Sheffield United": 1254.2,
+   "Shenzhen FC": 1226.9,
+   "Shenzhen Xinpengcheng": 1450.5,
+   "Sociedad": 1507.6,
+   "Southampton": 1215.0,
+   "Spezia": 1361.8,
+   "St Etienne": 1430.9,
+   "St Pauli": 1325.1,
+   "Strasbourg": 1604.9,
+   "Stuttgart": 1645.7,
+   "Sunderland": 1528.0,
+   "Tianjin Jinmen Tiger": 1625.3,
+   "Torino": 1534.9,
+   "Tottenham": 1455.6,
+   "Toulouse": 1540.7,
+   "Troyes": 1304.1,
+   "Udinese": 1546.8,
+   "Union Berlin": 1453.5,
+   "Valencia": 1570.1,
+   "Valladolid": 1213.6,
+   "Vallecano": 1570.4,
+   "Venezia": 1413.2,
+   "Verona": 1325.8,
+   "Villarreal": 1649.2,
+   "Werder Bremen": 1421.9,
+   "West Ham": 1501.4,
+   "Wolfsburg": 1415.8,
+   "Wolves": 1373.0,
+   "Wuhan Three Towns": 1449.9,
+   "Yunnan Yukun": 1546.2,
+   "Zhejiang": 1537.0
+  }
+ },
+ "updatedAt": "2026-10-24T05:37:02.473182+00:00",
+ "lastMatchDate": "2026-10-18",
+ "observeLog": {
+  "lastDate": "2026-10-23",
+  "events": {
+   "401874762": "2026-10-19",
+   "401874784": "2026-10-19",
+   "401874957": "2026-10-23",
+   "401876428": "2026-10-23",
+   "401879253": "2026-10-23",
+   "401879257": "2026-10-19",
+   "401882836": "2026-10-23",
+   "401882842": "2026-10-19",
+   "401882870": "2026-10-21",
+   "401884761": "2026-10-23"
+  }
+ }
+}

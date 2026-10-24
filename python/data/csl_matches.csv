@@ -1,0 +1,945 @@
+season,league,date,home,away,fthg,ftag
+2324,CSL,15/04/2023,Dalian Pro,Nantong Zhiyun,2,1
+2324,CSL,15/04/2023,Wuhan Three Towns,Shanghai Port,0,2
+2324,CSL,15/04/2023,Zhejiang,Changchun Yatai,0,2
+2324,CSL,15/04/2023,Beijing Guoan,Meizhou Hakka,1,1
+2324,CSL,16/04/2023,Henan,Chengdu Rongcheng,1,1
+2324,CSL,16/04/2023,Shanghai Shenhua,Shandong Taishan,1,0
+2324,CSL,16/04/2023,Shenzhen FC,Qingdao Hainiu,2,1
+2324,CSL,16/04/2023,Tianjin Jinmen Tiger,Cangzhou Mighty Lions,1,1
+2324,CSL,20/04/2023,Wuhan Three Towns,Beijing Guoan,1,1
+2324,CSL,21/04/2023,Meizhou Hakka,Shanghai Shenhua,0,1
+2324,CSL,21/04/2023,Tianjin Jinmen Tiger,Zhejiang,2,1
+2324,CSL,21/04/2023,Chengdu Rongcheng,Cangzhou Mighty Lions,2,1
+2324,CSL,21/04/2023,Henan,Qingdao Hainiu,0,0
+2324,CSL,21/04/2023,Shandong Taishan,Nantong Zhiyun,1,1
+2324,CSL,22/04/2023,Shanghai Port,Shenzhen FC,3,2
+2324,CSL,22/04/2023,Changchun Yatai,Dalian Pro,3,2
+2324,CSL,25/04/2023,Meizhou Hakka,Wuhan Three Towns,1,2
+2324,CSL,25/04/2023,Qingdao Hainiu,Beijing Guoan,3,1
+2324,CSL,25/04/2023,Shandong Taishan,Zhejiang,2,1
+2324,CSL,26/04/2023,Cangzhou Mighty Lions,Shanghai Port,0,1
+2324,CSL,26/04/2023,Dalian Pro,Chengdu Rongcheng,0,0
+2324,CSL,26/04/2023,Nantong Zhiyun,Henan,1,0
+2324,CSL,26/04/2023,Shanghai Shenhua,Changchun Yatai,1,0
+2324,CSL,26/04/2023,Shenzhen FC,Tianjin Jinmen Tiger,0,2
+2324,CSL,29/04/2023,Beijing Guoan,Shandong Taishan,0,0
+2324,CSL,29/04/2023,Qingdao Hainiu,Wuhan Three Towns,0,3
+2324,CSL,30/04/2023,Changchun Yatai,Tianjin Jinmen Tiger,1,1
+2324,CSL,30/04/2023,Zhejiang,Chengdu Rongcheng,0,2
+2324,CSL,30/04/2023,Shenzhen FC,Henan,1,1
+2324,CSL,30/04/2023,Cangzhou Mighty Lions,Nantong Zhiyun,1,1
+2324,CSL,30/04/2023,Shanghai Port,Shanghai Shenhua,1,1
+2324,CSL,01/05/2023,Dalian Pro,Meizhou Hakka,1,1
+2324,CSL,05/05/2023,Henan,Beijing Guoan,0,1
+2324,CSL,05/05/2023,Shanghai Shenhua,Dalian Pro,1,0
+2324,CSL,05/05/2023,Shenzhen FC,Cangzhou Mighty Lions,0,1
+2324,CSL,05/05/2023,Wuhan Three Towns,Zhejiang,0,0
+2324,CSL,06/05/2023,Meizhou Hakka,Shandong Taishan,2,1
+2324,CSL,06/05/2023,Chengdu Rongcheng,Qingdao Hainiu,3,2
+2324,CSL,06/05/2023,Nantong Zhiyun,Changchun Yatai,0,1
+2324,CSL,06/05/2023,Tianjin Jinmen Tiger,Shanghai Port,0,0
+2324,CSL,09/05/2023,Dalian Pro,Cangzhou Mighty Lions,1,1
+2324,CSL,09/05/2023,Henan,Wuhan Three Towns,1,1
+2324,CSL,09/05/2023,Shenzhen FC,Shanghai Shenhua,1,3
+2324,CSL,10/05/2023,Beijing Guoan,Tianjin Jinmen Tiger,1,1
+2324,CSL,10/05/2023,Changchun Yatai,Meizhou Hakka,2,4
+2324,CSL,10/05/2023,Chengdu Rongcheng,Shandong Taishan,2,2
+2324,CSL,10/05/2023,Nantong Zhiyun,Zhejiang,1,2
+2324,CSL,10/05/2023,Shanghai Port,Qingdao Hainiu,2,1
+2324,CSL,13/05/2023,Shanghai Shenhua,Wuhan Three Towns,1,1
+2324,CSL,13/05/2023,Shenzhen FC,Dalian Pro,2,1
+2324,CSL,14/05/2023,Qingdao Hainiu,Meizhou Hakka,2,0
+2324,CSL,14/05/2023,Chengdu Rongcheng,Changchun Yatai,2,2
+2324,CSL,14/05/2023,Cangzhou Mighty Lions,Shandong Taishan,1,1
+2324,CSL,14/05/2023,Tianjin Jinmen Tiger,Henan,1,0
+2324,CSL,14/05/2023,Zhejiang,Shanghai Port,1,2
+2324,CSL,15/05/2023,Beijing Guoan,Nantong Zhiyun,1,0
+2324,CSL,19/05/2023,Wuhan Three Towns,Chengdu Rongcheng,3,3
+2324,CSL,19/05/2023,Cangzhou Mighty Lions,Changchun Yatai,2,4
+2324,CSL,19/05/2023,Nantong Zhiyun,Shenzhen FC,1,1
+2324,CSL,19/05/2023,Qingdao Hainiu,Zhejiang,2,2
+2324,CSL,19/05/2023,Shanghai Shenhua,Beijing Guoan,1,1
+2324,CSL,20/05/2023,Henan,Dalian Pro,1,0
+2324,CSL,20/05/2023,Meizhou Hakka,Shanghai Port,0,2
+2324,CSL,20/05/2023,Tianjin Jinmen Tiger,Shandong Taishan,3,3
+2324,CSL,23/05/2023,Beijing Guoan,Cangzhou Mighty Lions,6,2
+2324,CSL,23/05/2023,Changchun Yatai,Qingdao Hainiu,1,0
+2324,CSL,23/05/2023,Chengdu Rongcheng,Shanghai Shenhua,2,1
+2324,CSL,23/05/2023,Nantong Zhiyun,Wuhan Three Towns,0,5
+2324,CSL,24/05/2023,Dalian Pro,Zhejiang,1,2
+2324,CSL,24/05/2023,Meizhou Hakka,Tianjin Jinmen Tiger,1,1
+2324,CSL,24/05/2023,Shandong Taishan,Shenzhen FC,3,0
+2324,CSL,24/05/2023,Shanghai Port,Henan,3,2
+2324,CSL,27/05/2023,Chengdu Rongcheng,Nantong Zhiyun,1,0
+2324,CSL,27/05/2023,Cangzhou Mighty Lions,Wuhan Three Towns,2,1
+2324,CSL,28/05/2023,Qingdao Hainiu,Shandong Taishan,0,1
+2324,CSL,28/05/2023,Zhejiang,Beijing Guoan,3,2
+2324,CSL,28/05/2023,Dalian Pro,Tianjin Jinmen Tiger,0,1
+2324,CSL,28/05/2023,Shanghai Shenhua,Henan,1,1
+2324,CSL,28/05/2023,Shenzhen FC,Meizhou Hakka,3,2
+2324,CSL,29/05/2023,Changchun Yatai,Shanghai Port,0,3
+2324,CSL,02/06/2023,Beijing Guoan,Changchun Yatai,4,3
+2324,CSL,02/06/2023,Zhejiang,Shenzhen FC,3,0
+2324,CSL,03/06/2023,Shanghai Port,Chengdu Rongcheng,0,1
+2324,CSL,03/06/2023,Henan,Meizhou Hakka,2,1
+2324,CSL,03/06/2023,Shandong Taishan,Dalian Pro,2,0
+2324,CSL,04/06/2023,Cangzhou Mighty Lions,Shanghai Shenhua,0,1
+2324,CSL,04/06/2023,Nantong Zhiyun,Qingdao Hainiu,1,0
+2324,CSL,04/06/2023,Tianjin Jinmen Tiger,Wuhan Three Towns,1,1
+2324,CSL,08/06/2023,Changchun Yatai,Shenzhen FC,4,1
+2324,CSL,08/06/2023,Chengdu Rongcheng,Tianjin Jinmen Tiger,0,0
+2324,CSL,08/06/2023,Qingdao Hainiu,Shanghai Shenhua,0,1
+2324,CSL,09/06/2023,Henan,Zhejiang,2,2
+2324,CSL,09/06/2023,Dalian Pro,Beijing Guoan,2,2
+2324,CSL,09/06/2023,Meizhou Hakka,Cangzhou Mighty Lions,2,3
+2324,CSL,09/06/2023,Shanghai Port,Nantong Zhiyun,2,1
+2324,CSL,09/06/2023,Wuhan Three Towns,Shandong Taishan,1,1
+2324,CSL,28/06/2023,Cangzhou Mighty Lions,Henan,0,1
+2324,CSL,28/06/2023,Shanghai Shenhua,Nantong Zhiyun,1,0
+2324,CSL,28/06/2023,Tianjin Jinmen Tiger,Qingdao Hainiu,3,2
+2324,CSL,28/06/2023,Wuhan Three Towns,Dalian Pro,0,0
+2324,CSL,28/06/2023,Zhejiang,Meizhou Hakka,3,0
+2324,CSL,29/06/2023,Beijing Guoan,Shanghai Port,1,2
+2324,CSL,29/06/2023,Shandong Taishan,Changchun Yatai,4,1
+2324,CSL,29/06/2023,Shenzhen FC,Chengdu Rongcheng,0,3
+2324,CSL,02/07/2023,Shanghai Shenhua,Tianjin Jinmen Tiger,1,2
+2324,CSL,02/07/2023,Cangzhou Mighty Lions,Zhejiang,2,1
+2324,CSL,02/07/2023,Dalian Pro,Qingdao Hainiu,1,1
+2324,CSL,02/07/2023,Nantong Zhiyun,Meizhou Hakka,2,2
+2324,CSL,03/07/2023,Changchun Yatai,Henan,3,1
+2324,CSL,03/07/2023,Chengdu Rongcheng,Beijing Guoan,0,1
+2324,CSL,03/07/2023,Shandong Taishan,Shanghai Port,1,1
+2324,CSL,03/07/2023,Shenzhen FC,Wuhan Three Towns,1,3
+2324,CSL,07/07/2023,Henan,Shandong Taishan,0,1
+2324,CSL,07/07/2023,Meizhou Hakka,Chengdu Rongcheng,3,1
+2324,CSL,07/07/2023,Qingdao Hainiu,Cangzhou Mighty Lions,1,1
+2324,CSL,07/07/2023,Tianjin Jinmen Tiger,Nantong Zhiyun,1,1
+2324,CSL,07/07/2023,Zhejiang,Shanghai Shenhua,0,1
+2324,CSL,08/07/2023,Beijing Guoan,Shenzhen FC,5,0
+2324,CSL,08/07/2023,Shanghai Port,Dalian Pro,1,1
+2324,CSL,08/07/2023,Wuhan Three Towns,Changchun Yatai,2,1
+2324,CSL,11/07/2023,Cangzhou Mighty Lions,Tianjin Jinmen Tiger,1,1
+2324,CSL,11/07/2023,Chengdu Rongcheng,Henan,2,0
+2324,CSL,11/07/2023,Shandong Taishan,Shanghai Shenhua,3,0
+2324,CSL,12/07/2023,Changchun Yatai,Zhejiang,2,2
+2324,CSL,12/07/2023,Meizhou Hakka,Beijing Guoan,3,1
+2324,CSL,12/07/2023,Nantong Zhiyun,Dalian Pro,1,1
+2324,CSL,12/07/2023,Qingdao Hainiu,Shenzhen FC,5,0
+2324,CSL,12/07/2023,Shanghai Port,Wuhan Three Towns,3,1
+2324,CSL,16/07/2023,Beijing Guoan,Wuhan Three Towns,1,1
+2324,CSL,16/07/2023,Dalian Pro,Changchun Yatai,0,0
+2324,CSL,16/07/2023,Nantong Zhiyun,Shandong Taishan,1,1
+2324,CSL,16/07/2023,Shenzhen FC,Shanghai Port,1,4
+2324,CSL,16/07/2023,Zhejiang,Tianjin Jinmen Tiger,2,1
+2324,CSL,17/07/2023,Cangzhou Mighty Lions,Chengdu Rongcheng,2,1
+2324,CSL,17/07/2023,Qingdao Hainiu,Henan,2,0
+2324,CSL,17/07/2023,Shanghai Shenhua,Meizhou Hakka,2,1
+2324,CSL,21/07/2023,Henan,Nantong Zhiyun,1,1
+2324,CSL,21/07/2023,Shanghai Port,Cangzhou Mighty Lions,3,0
+2324,CSL,21/07/2023,Tianjin Jinmen Tiger,Shenzhen FC,3,3
+2324,CSL,22/07/2023,Beijing Guoan,Qingdao Hainiu,2,0
+2324,CSL,22/07/2023,Changchun Yatai,Shanghai Shenhua,1,1
+2324,CSL,22/07/2023,Chengdu Rongcheng,Dalian Pro,4,1
+2324,CSL,22/07/2023,Zhejiang,Shandong Taishan,2,1
+2324,CSL,23/07/2023,Wuhan Three Towns,Meizhou Hakka,2,1
+2324,CSL,28/07/2023,Henan,Shenzhen FC,3,1
+2324,CSL,29/07/2023,Chengdu Rongcheng,Zhejiang,1,2
+2324,CSL,29/07/2023,Meizhou Hakka,Dalian Pro,2,1
+2324,CSL,29/07/2023,Nantong Zhiyun,Cangzhou Mighty Lions,1,2
+2324,CSL,29/07/2023,Shanghai Shenhua,Shanghai Port,0,5
+2324,CSL,29/07/2023,Tianjin Jinmen Tiger,Changchun Yatai,0,0
+2324,CSL,30/07/2023,Shandong Taishan,Beijing Guoan,3,0
+2324,CSL,30/07/2023,Wuhan Three Towns,Qingdao Hainiu,1,0
+2324,CSL,03/08/2023,Shanghai Port,Tianjin Jinmen Tiger,2,1
+2324,CSL,04/08/2023,Beijing Guoan,Henan,3,1
+2324,CSL,04/08/2023,Changchun Yatai,Nantong Zhiyun,1,1
+2324,CSL,04/08/2023,Qingdao Hainiu,Chengdu Rongcheng,3,2
+2324,CSL,04/08/2023,Shandong Taishan,Meizhou Hakka,6,1
+2324,CSL,04/08/2023,Zhejiang,Wuhan Three Towns,2,1
+2324,CSL,05/08/2023,Cangzhou Mighty Lions,Shenzhen FC,1,0
+2324,CSL,05/08/2023,Dalian Pro,Shanghai Shenhua,2,1
+2324,CSL,08/08/2023,Meizhou Hakka,Changchun Yatai,4,2
+2324,CSL,08/08/2023,Qingdao Hainiu,Shanghai Port,0,5
+2324,CSL,08/08/2023,Shandong Taishan,Chengdu Rongcheng,0,1
+2324,CSL,08/08/2023,Zhejiang,Nantong Zhiyun,1,1
+2324,CSL,09/08/2023,Cangzhou Mighty Lions,Dalian Pro,2,1
+2324,CSL,09/08/2023,Shanghai Shenhua,Shenzhen FC,3,0
+2324,CSL,09/08/2023,Tianjin Jinmen Tiger,Beijing Guoan,0,0
+2324,CSL,09/08/2023,Wuhan Three Towns,Henan,4,2
+2324,CSL,12/08/2023,Changchun Yatai,Chengdu Rongcheng,1,0
+2324,CSL,12/08/2023,Meizhou Hakka,Qingdao Hainiu,1,0
+2324,CSL,12/08/2023,Shanghai Port,Zhejiang,3,4
+2324,CSL,13/08/2023,Dalian Pro,Shenzhen FC,2,1
+2324,CSL,13/08/2023,Henan,Tianjin Jinmen Tiger,1,0
+2324,CSL,13/08/2023,Nantong Zhiyun,Beijing Guoan,0,1
+2324,CSL,13/08/2023,Shandong Taishan,Cangzhou Mighty Lions,4,0
+2324,CSL,13/08/2023,Wuhan Three Towns,Shanghai Shenhua,1,2
+2324,CSL,18/08/2023,Shandong Taishan,Tianjin Jinmen Tiger,1,0
+2324,CSL,18/08/2023,Shanghai Port,Meizhou Hakka,1,1
+2324,CSL,18/08/2023,Zhejiang,Qingdao Hainiu,0,0
+2324,CSL,19/08/2023,Beijing Guoan,Shanghai Shenhua,2,1
+2324,CSL,19/08/2023,Chengdu Rongcheng,Wuhan Three Towns,0,1
+2324,CSL,19/08/2023,Dalian Pro,Henan,0,3
+2324,CSL,19/08/2023,Shenzhen FC,Nantong Zhiyun,0,1
+2324,CSL,20/08/2023,Changchun Yatai,Cangzhou Mighty Lions,3,1
+2324,CSL,25/08/2023,Henan,Shanghai Port,3,1
+2324,CSL,25/08/2023,Shenzhen FC,Shandong Taishan,1,2
+2324,CSL,26/08/2023,Cangzhou Mighty Lions,Beijing Guoan,1,5
+2324,CSL,26/08/2023,Qingdao Hainiu,Changchun Yatai,1,0
+2324,CSL,26/08/2023,Shanghai Shenhua,Chengdu Rongcheng,1,1
+2324,CSL,26/08/2023,Tianjin Jinmen Tiger,Meizhou Hakka,3,1
+2324,CSL,26/08/2023,Zhejiang,Dalian Pro,3,0
+2324,CSL,27/08/2023,Wuhan Three Towns,Nantong Zhiyun,4,2
+2324,CSL,15/09/2023,Beijing Guoan,Zhejiang,0,1
+2324,CSL,15/09/2023,Shandong Taishan,Qingdao Hainiu,4,2
+2324,CSL,15/09/2023,Shanghai Port,Changchun Yatai,2,0
+2324,CSL,15/09/2023,Wuhan Three Towns,Cangzhou Mighty Lions,2,0
+2324,CSL,16/09/2023,Henan,Shanghai Shenhua,3,0
+2324,CSL,16/09/2023,Meizhou Hakka,Shenzhen FC,5,1
+2324,CSL,17/09/2023,Nantong Zhiyun,Chengdu Rongcheng,0,2
+2324,CSL,17/09/2023,Tianjin Jinmen Tiger,Dalian Pro,1,0
+2324,CSL,22/09/2023,Changchun Yatai,Beijing Guoan,1,1
+2324,CSL,22/09/2023,Shanghai Shenhua,Cangzhou Mighty Lions,2,0
+2324,CSL,23/09/2023,Dalian Pro,Shandong Taishan,0,0
+2324,CSL,23/09/2023,Chengdu Rongcheng,Shanghai Port,2,1
+2324,CSL,23/09/2023,Meizhou Hakka,Henan,0,0
+2324,CSL,23/09/2023,Wuhan Three Towns,Tianjin Jinmen Tiger,0,1
+2324,CSL,24/09/2023,Qingdao Hainiu,Nantong Zhiyun,3,1
+2324,CSL,24/09/2023,Shenzhen FC,Zhejiang,0,5
+2324,CSL,29/09/2023,Cangzhou Mighty Lions,Meizhou Hakka,0,1
+2324,CSL,29/09/2023,Nantong Zhiyun,Shanghai Port,0,1
+2324,CSL,29/09/2023,Shandong Taishan,Wuhan Three Towns,2,1
+2324,CSL,29/09/2023,Shenzhen FC,Changchun Yatai,0,1
+2324,CSL,29/09/2023,Tianjin Jinmen Tiger,Chengdu Rongcheng,2,2
+2324,CSL,30/09/2023,Beijing Guoan,Dalian Pro,2,0
+2324,CSL,30/09/2023,Shanghai Shenhua,Qingdao Hainiu,1,0
+2324,CSL,30/09/2023,Zhejiang,Henan,3,0
+2324,CSL,19/10/2023,Meizhou Hakka,Zhejiang,1,1
+2324,CSL,20/10/2023,Changchun Yatai,Shandong Taishan,0,3
+2324,CSL,20/10/2023,Dalian Pro,Wuhan Three Towns,1,3
+2324,CSL,20/10/2023,Shanghai Port,Beijing Guoan,1,2
+2324,CSL,21/10/2023,Henan,Cangzhou Mighty Lions,6,0
+2324,CSL,21/10/2023,Nantong Zhiyun,Shanghai Shenhua,0,1
+2324,CSL,22/10/2023,Qingdao Hainiu,Tianjin Jinmen Tiger,1,4
+2324,CSL,23/10/2023,Chengdu Rongcheng,Shenzhen FC,4,0
+2324,CSL,29/10/2023,Beijing Guoan,Chengdu Rongcheng,2,3
+2324,CSL,29/10/2023,Henan,Changchun Yatai,1,1
+2324,CSL,29/10/2023,Meizhou Hakka,Nantong Zhiyun,0,4
+2324,CSL,29/10/2023,Qingdao Hainiu,Dalian Pro,2,2
+2324,CSL,29/10/2023,Shanghai Port,Shandong Taishan,1,1
+2324,CSL,29/10/2023,Tianjin Jinmen Tiger,Shanghai Shenhua,1,1
+2324,CSL,29/10/2023,Wuhan Three Towns,Shenzhen FC,1,0
+2324,CSL,29/10/2023,Zhejiang,Cangzhou Mighty Lions,6,1
+2324,CSL,04/11/2023,Cangzhou Mighty Lions,Qingdao Hainiu,0,0
+2324,CSL,04/11/2023,Changchun Yatai,Wuhan Three Towns,3,4
+2324,CSL,04/11/2023,Chengdu Rongcheng,Meizhou Hakka,3,0
+2324,CSL,04/11/2023,Dalian Pro,Shanghai Port,2,3
+2324,CSL,04/11/2023,Nantong Zhiyun,Tianjin Jinmen Tiger,1,2
+2324,CSL,04/11/2023,Shandong Taishan,Henan,5,1
+2324,CSL,04/11/2023,Shanghai Shenhua,Zhejiang,1,2
+2324,CSL,04/11/2023,Shenzhen FC,Beijing Guoan,0,3
+2425,CSL,01/03/2024,Shandong Taishan,Changchun Yatai,4,2
+2425,CSL,01/03/2024,Qingdao West Coast,Henan,1,1
+2425,CSL,01/03/2024,Shanghai Port,Wuhan Three Towns,3,1
+2425,CSL,02/03/2024,Cangzhou Mighty Lions,Beijing Guoan,0,2
+2425,CSL,02/03/2024,Tianjin Jinmen Tiger,Nantong Zhiyun,1,1
+2425,CSL,02/03/2024,Chengdu Rongcheng,Qingdao Hainiu,2,0
+2425,CSL,03/03/2024,Zhejiang,Shenzhen Xinpengcheng,1,0
+2425,CSL,03/03/2024,Meizhou Hakka,Shanghai Shenhua,0,2
+2425,CSL,08/03/2024,Qingdao Hainiu,Changchun Yatai,0,1
+2425,CSL,08/03/2024,Shanghai Shenhua,Qingdao West Coast,2,0
+2425,CSL,09/03/2024,Henan,Meizhou Hakka,2,2
+2425,CSL,09/03/2024,Shandong Taishan,Beijing Guoan,0,0
+2425,CSL,09/03/2024,Zhejiang,Shanghai Port,0,0
+2425,CSL,09/03/2024,Nantong Zhiyun,Wuhan Three Towns,1,3
+2425,CSL,10/03/2024,Cangzhou Mighty Lions,Chengdu Rongcheng,1,0
+2425,CSL,10/03/2024,Shenzhen Xinpengcheng,Tianjin Jinmen Tiger,0,4
+2425,CSL,29/03/2024,Shenzhen Xinpengcheng,Cangzhou Mighty Lions,2,2
+2425,CSL,30/03/2024,Wuhan Three Towns,Beijing Guoan,0,1
+2425,CSL,30/03/2024,Chengdu Rongcheng,Nantong Zhiyun,1,0
+2425,CSL,30/03/2024,Qingdao West Coast,Qingdao Hainiu,1,0
+2425,CSL,30/03/2024,Shanghai Port,Henan,3,1
+2425,CSL,31/03/2024,Changchun Yatai,Tianjin Jinmen Tiger,0,1
+2425,CSL,31/03/2024,Shandong Taishan,Shanghai Shenhua,0,3
+2425,CSL,31/03/2024,Meizhou Hakka,Zhejiang,1,2
+2425,CSL,04/04/2024,Wuhan Three Towns,Cangzhou Mighty Lions,2,3
+2425,CSL,05/04/2024,Changchun Yatai,Shanghai Shenhua,1,2
+2425,CSL,05/04/2024,Henan,Shenzhen Xinpengcheng,0,2
+2425,CSL,05/04/2024,Beijing Guoan,Shanghai Port,2,2
+2425,CSL,05/04/2024,Qingdao Hainiu,Shandong Taishan,0,1
+2425,CSL,05/04/2024,Nantong Zhiyun,Meizhou Hakka,1,0
+2425,CSL,06/04/2024,Tianjin Jinmen Tiger,Chengdu Rongcheng,2,3
+2425,CSL,06/04/2024,Zhejiang,Qingdao West Coast,1,2
+2425,CSL,09/04/2024,Nantong Zhiyun,Shanghai Port,0,3
+2425,CSL,09/04/2024,Beijing Guoan,Shenzhen Xinpengcheng,1,2
+2425,CSL,09/04/2024,Shandong Taishan,Henan,2,2
+2425,CSL,09/04/2024,Shanghai Shenhua,Wuhan Three Towns,4,1
+2425,CSL,10/04/2024,Qingdao West Coast,Tianjin Jinmen Tiger,1,3
+2425,CSL,10/04/2024,Cangzhou Mighty Lions,Changchun Yatai,2,0
+2425,CSL,10/04/2024,Chengdu Rongcheng,Zhejiang,3,0
+2425,CSL,10/04/2024,Meizhou Hakka,Qingdao Hainiu,0,0
+2425,CSL,13/04/2024,Henan,Nantong Zhiyun,1,1
+2425,CSL,13/04/2024,Shanghai Shenhua,Beijing Guoan,1,1
+2425,CSL,14/04/2024,Changchun Yatai,Chengdu Rongcheng,1,2
+2425,CSL,14/04/2024,Tianjin Jinmen Tiger,Meizhou Hakka,0,0
+2425,CSL,14/04/2024,Cangzhou Mighty Lions,Qingdao West Coast,3,2
+2425,CSL,14/04/2024,Qingdao Hainiu,Zhejiang,2,0
+2425,CSL,14/04/2024,Shanghai Port,Shandong Taishan,4,3
+2425,CSL,14/04/2024,Shenzhen Xinpengcheng,Wuhan Three Towns,1,1
+2425,CSL,19/04/2024,Zhejiang,Tianjin Jinmen Tiger,3,2
+2425,CSL,20/04/2024,Shandong Taishan,Cangzhou Mighty Lions,4,1
+2425,CSL,20/04/2024,Chengdu Rongcheng,Shenzhen Xinpengcheng,3,1
+2425,CSL,20/04/2024,Wuhan Three Towns,Changchun Yatai,0,0
+2425,CSL,20/04/2024,Nantong Zhiyun,Shanghai Shenhua,0,2
+2425,CSL,21/04/2024,Henan,Qingdao Hainiu,1,0
+2425,CSL,21/04/2024,Beijing Guoan,Qingdao West Coast,4,1
+2425,CSL,26/04/2024,Qingdao West Coast,Nantong Zhiyun,0,2
+2425,CSL,26/04/2024,Shenzhen Xinpengcheng,Qingdao Hainiu,1,3
+2425,CSL,26/04/2024,Cangzhou Mighty Lions,Henan,2,3
+2425,CSL,26/04/2024,Changchun Yatai,Meizhou Hakka,0,1
+2425,CSL,26/04/2024,Wuhan Three Towns,Tianjin Jinmen Tiger,2,1
+2425,CSL,26/04/2024,Zhejiang,Beijing Guoan,1,2
+2425,CSL,26/04/2024,Chengdu Rongcheng,Shandong Taishan,0,1
+2425,CSL,27/04/2024,Shanghai Port,Shanghai Shenhua,1,1
+2425,CSL,30/04/2024,Shandong Taishan,Nantong Zhiyun,3,1
+2425,CSL,30/04/2024,Tianjin Jinmen Tiger,Beijing Guoan,0,1
+2425,CSL,30/04/2024,Meizhou Hakka,Qingdao West Coast,1,1
+2425,CSL,30/04/2024,Zhejiang,Henan,4,1
+2425,CSL,01/05/2024,Changchun Yatai,Shenzhen Xinpengcheng,1,1
+2425,CSL,01/05/2024,Qingdao Hainiu,Shanghai Port,0,5
+2425,CSL,01/05/2024,Chengdu Rongcheng,Wuhan Three Towns,2,2
+2425,CSL,01/05/2024,Shanghai Shenhua,Cangzhou Mighty Lions,4,0
+2425,CSL,04/05/2024,Qingdao West Coast,Shandong Taishan,0,0
+2425,CSL,04/05/2024,Henan,Tianjin Jinmen Tiger,1,2
+2425,CSL,05/05/2024,Nantong Zhiyun,Changchun Yatai,2,3
+2425,CSL,05/05/2024,Shanghai Shenhua,Zhejiang,4,0
+2425,CSL,05/05/2024,Meizhou Hakka,Cangzhou Mighty Lions,1,1
+2425,CSL,05/05/2024,Beijing Guoan,Chengdu Rongcheng,2,1
+2425,CSL,05/05/2024,Wuhan Three Towns,Qingdao Hainiu,1,0
+2425,CSL,05/05/2024,Shenzhen Xinpengcheng,Shanghai Port,0,6
+2425,CSL,10/05/2024,Qingdao Hainiu,Nantong Zhiyun,2,2
+2425,CSL,10/05/2024,Chengdu Rongcheng,Henan,4,2
+2425,CSL,10/05/2024,Shanghai Port,Changchun Yatai,5,2
+2425,CSL,11/05/2024,Tianjin Jinmen Tiger,Shanghai Shenhua,0,0
+2425,CSL,11/05/2024,Wuhan Three Towns,Shandong Taishan,1,2
+2425,CSL,11/05/2024,Beijing Guoan,Meizhou Hakka,3,2
+2425,CSL,12/05/2024,Cangzhou Mighty Lions,Zhejiang,0,1
+2425,CSL,12/05/2024,Shenzhen Xinpengcheng,Qingdao West Coast,1,2
+2425,CSL,15/05/2024,Shanghai Shenhua,Qingdao Hainiu,2,0
+2425,CSL,16/05/2024,Shandong Taishan,Shenzhen Xinpengcheng,3,2
+2425,CSL,17/05/2024,Zhejiang,Nantong Zhiyun,5,2
+2425,CSL,17/05/2024,Cangzhou Mighty Lions,Tianjin Jinmen Tiger,2,4
+2425,CSL,17/05/2024,Henan,Wuhan Three Towns,2,3
+2425,CSL,17/05/2024,Meizhou Hakka,Chengdu Rongcheng,1,4
+2425,CSL,17/05/2024,Changchun Yatai,Beijing Guoan,3,2
+2425,CSL,18/05/2024,Qingdao West Coast,Shanghai Port,3,5
+2425,CSL,21/05/2024,Meizhou Hakka,Shenzhen Xinpengcheng,0,0
+2425,CSL,21/05/2024,Henan,Shanghai Shenhua,1,2
+2425,CSL,21/05/2024,Qingdao Hainiu,Beijing Guoan,1,1
+2425,CSL,21/05/2024,Zhejiang,Wuhan Three Towns,3,1
+2425,CSL,21/05/2024,Nantong Zhiyun,Cangzhou Mighty Lions,1,1
+2425,CSL,21/05/2024,Tianjin Jinmen Tiger,Shandong Taishan,1,1
+2425,CSL,22/05/2024,Qingdao West Coast,Changchun Yatai,2,2
+2425,CSL,22/05/2024,Shanghai Port,Chengdu Rongcheng,2,0
+2425,CSL,25/05/2024,Shandong Taishan,Zhejiang,3,0
+2425,CSL,25/05/2024,Wuhan Three Towns,Meizhou Hakka,0,1
+2425,CSL,26/05/2024,Shenzhen Xinpengcheng,Shanghai Shenhua,0,1
+2425,CSL,26/05/2024,Beijing Guoan,Nantong Zhiyun,5,2
+2425,CSL,26/05/2024,Qingdao Hainiu,Tianjin Jinmen Tiger,3,1
+2425,CSL,26/05/2024,Changchun Yatai,Henan,0,0
+2425,CSL,26/05/2024,Chengdu Rongcheng,Qingdao West Coast,7,0
+2425,CSL,26/05/2024,Shanghai Port,Cangzhou Mighty Lions,4,1
+2425,CSL,14/06/2024,Meizhou Hakka,Shandong Taishan,0,0
+2425,CSL,14/06/2024,Nantong Zhiyun,Shenzhen Xinpengcheng,0,1
+2425,CSL,14/06/2024,Tianjin Jinmen Tiger,Shanghai Port,0,3
+2425,CSL,15/06/2024,Zhejiang,Changchun Yatai,3,1
+2425,CSL,15/06/2024,Henan,Beijing Guoan,2,1
+2425,CSL,16/06/2024,Cangzhou Mighty Lions,Qingdao Hainiu,0,1
+2425,CSL,16/06/2024,Shanghai Shenhua,Chengdu Rongcheng,1,1
+2425,CSL,16/06/2024,Qingdao West Coast,Wuhan Three Towns,0,1
+2425,CSL,18/06/2024,Meizhou Hakka,Shanghai Port,1,2
+2425,CSL,25/06/2024,Henan,Qingdao West Coast,1,0
+2425,CSL,25/06/2024,Nantong Zhiyun,Tianjin Jinmen Tiger,1,1
+2425,CSL,25/06/2024,Shenzhen Xinpengcheng,Zhejiang,3,2
+2425,CSL,25/06/2024,Wuhan Three Towns,Shanghai Port,0,2
+2425,CSL,26/06/2024,Shanghai Shenhua,Meizhou Hakka,3,0
+2425,CSL,26/06/2024,Changchun Yatai,Shandong Taishan,2,2
+2425,CSL,26/06/2024,Qingdao Hainiu,Chengdu Rongcheng,1,5
+2425,CSL,26/06/2024,Beijing Guoan,Cangzhou Mighty Lions,4,0
+2425,CSL,29/06/2024,Wuhan Three Towns,Nantong Zhiyun,1,2
+2425,CSL,29/06/2024,Shanghai Port,Zhejiang,3,1
+2425,CSL,29/06/2024,Tianjin Jinmen Tiger,Shenzhen Xinpengcheng,3,0
+2425,CSL,30/06/2024,Qingdao West Coast,Shanghai Shenhua,0,1
+2425,CSL,30/06/2024,Changchun Yatai,Qingdao Hainiu,5,0
+2425,CSL,30/06/2024,Chengdu Rongcheng,Cangzhou Mighty Lions,4,0
+2425,CSL,30/06/2024,Meizhou Hakka,Henan,0,3
+2425,CSL,30/06/2024,Beijing Guoan,Shandong Taishan,2,0
+2425,CSL,05/07/2024,Henan,Shanghai Port,0,1
+2425,CSL,06/07/2024,Tianjin Jinmen Tiger,Changchun Yatai,2,2
+2425,CSL,06/07/2024,Shanghai Shenhua,Shandong Taishan,6,0
+2425,CSL,06/07/2024,Cangzhou Mighty Lions,Shenzhen Xinpengcheng,1,1
+2425,CSL,07/07/2024,Nantong Zhiyun,Chengdu Rongcheng,0,1
+2425,CSL,07/07/2024,Beijing Guoan,Wuhan Three Towns,1,2
+2425,CSL,07/07/2024,Qingdao Hainiu,Qingdao West Coast,3,1
+2425,CSL,07/07/2024,Zhejiang,Meizhou Hakka,4,0
+2425,CSL,12/07/2024,Cangzhou Mighty Lions,Wuhan Three Towns,1,1
+2425,CSL,12/07/2024,Shanghai Port,Beijing Guoan,5,1
+2425,CSL,12/07/2024,Chengdu Rongcheng,Tianjin Jinmen Tiger,2,1
+2425,CSL,13/07/2024,Qingdao West Coast,Zhejiang,5,2
+2425,CSL,13/07/2024,Meizhou Hakka,Nantong Zhiyun,2,1
+2425,CSL,13/07/2024,Shandong Taishan,Qingdao Hainiu,1,1
+2425,CSL,13/07/2024,Shanghai Shenhua,Changchun Yatai,3,2
+2425,CSL,13/07/2024,Shenzhen Xinpengcheng,Henan,0,0
+2425,CSL,20/07/2024,Wuhan Three Towns,Chengdu Rongcheng,1,1
+2425,CSL,21/07/2024,Qingdao West Coast,Meizhou Hakka,3,3
+2425,CSL,21/07/2024,Nantong Zhiyun,Shandong Taishan,0,2
+2425,CSL,21/07/2024,Beijing Guoan,Tianjin Jinmen Tiger,2,0
+2425,CSL,21/07/2024,Henan,Zhejiang,2,1
+2425,CSL,21/07/2024,Shanghai Port,Qingdao Hainiu,5,0
+2425,CSL,21/07/2024,Shenzhen Xinpengcheng,Changchun Yatai,2,1
+2425,CSL,22/07/2024,Cangzhou Mighty Lions,Shanghai Shenhua,0,5
+2425,CSL,26/07/2024,Shanghai Port,Nantong Zhiyun,8,1
+2425,CSL,26/07/2024,Shenzhen Xinpengcheng,Beijing Guoan,1,0
+2425,CSL,27/07/2024,Changchun Yatai,Cangzhou Mighty Lions,1,0
+2425,CSL,27/07/2024,Tianjin Jinmen Tiger,Qingdao West Coast,2,1
+2425,CSL,28/07/2024,Qingdao Hainiu,Meizhou Hakka,4,2
+2425,CSL,28/07/2024,Zhejiang,Chengdu Rongcheng,1,3
+2425,CSL,28/07/2024,Henan,Shandong Taishan,1,0
+2425,CSL,29/07/2024,Wuhan Three Towns,Shanghai Shenhua,0,2
+2425,CSL,02/08/2024,Qingdao West Coast,Cangzhou Mighty Lions,1,1
+2425,CSL,03/08/2024,Zhejiang,Qingdao Hainiu,4,3
+2425,CSL,03/08/2024,Meizhou Hakka,Tianjin Jinmen Tiger,3,2
+2425,CSL,03/08/2024,Shandong Taishan,Shanghai Port,0,1
+2425,CSL,03/08/2024,Chengdu Rongcheng,Changchun Yatai,4,0
+2425,CSL,03/08/2024,Wuhan Three Towns,Shenzhen Xinpengcheng,4,1
+2425,CSL,04/08/2024,Beijing Guoan,Shanghai Shenhua,2,1
+2425,CSL,04/08/2024,Nantong Zhiyun,Henan,1,1
+2425,CSL,09/08/2024,Cangzhou Mighty Lions,Shandong Taishan,3,1
+2425,CSL,09/08/2024,Shanghai Port,Meizhou Hakka,7,2
+2425,CSL,09/08/2024,Shenzhen Xinpengcheng,Chengdu Rongcheng,0,3
+2425,CSL,10/08/2024,Qingdao Hainiu,Henan,0,2
+2425,CSL,10/08/2024,Changchun Yatai,Wuhan Three Towns,2,0
+2425,CSL,10/08/2024,Shanghai Shenhua,Nantong Zhiyun,5,1
+2425,CSL,11/08/2024,Qingdao West Coast,Beijing Guoan,2,2
+2425,CSL,11/08/2024,Tianjin Jinmen Tiger,Zhejiang,3,2
+2425,CSL,16/08/2024,Henan,Cangzhou Mighty Lions,0,2
+2425,CSL,16/08/2024,Tianjin Jinmen Tiger,Wuhan Three Towns,1,0
+2425,CSL,16/08/2024,Beijing Guoan,Zhejiang,0,0
+2425,CSL,16/08/2024,Nantong Zhiyun,Qingdao West Coast,0,3
+2425,CSL,17/08/2024,Qingdao Hainiu,Shenzhen Xinpengcheng,1,0
+2425,CSL,17/08/2024,Meizhou Hakka,Changchun Yatai,2,1
+2425,CSL,17/08/2024,Shanghai Shenhua,Shanghai Port,3,1
+2425,CSL,17/08/2024,Shandong Taishan,Chengdu Rongcheng,3,0
+2425,CSL,13/09/2024,Shanghai Port,Shenzhen Xinpengcheng,2,0
+2425,CSL,13/09/2024,Zhejiang,Shanghai Shenhua,3,4
+2425,CSL,13/09/2024,Shandong Taishan,Qingdao West Coast,0,1
+2425,CSL,14/09/2024,Changchun Yatai,Nantong Zhiyun,3,2
+2425,CSL,14/09/2024,Chengdu Rongcheng,Beijing Guoan,2,2
+2425,CSL,14/09/2024,Tianjin Jinmen Tiger,Henan,1,0
+2425,CSL,14/09/2024,Cangzhou Mighty Lions,Meizhou Hakka,2,1
+2425,CSL,15/09/2024,Qingdao Hainiu,Wuhan Three Towns,1,1
+2425,CSL,20/09/2024,Meizhou Hakka,Beijing Guoan,1,3
+2425,CSL,21/09/2024,Changchun Yatai,Shanghai Port,3,4
+2425,CSL,21/09/2024,Henan,Chengdu Rongcheng,2,0
+2425,CSL,21/09/2024,Shandong Taishan,Wuhan Three Towns,0,0
+2425,CSL,21/09/2024,Shanghai Shenhua,Tianjin Jinmen Tiger,2,1
+2425,CSL,22/09/2024,Qingdao West Coast,Shenzhen Xinpengcheng,3,2
+2425,CSL,22/09/2024,Nantong Zhiyun,Qingdao Hainiu,2,1
+2425,CSL,22/09/2024,Zhejiang,Cangzhou Mighty Lions,2,2
+2425,CSL,28/09/2024,Qingdao Hainiu,Shanghai Shenhua,0,1
+2425,CSL,28/09/2024,Shanghai Port,Qingdao West Coast,2,1
+2425,CSL,28/09/2024,Beijing Guoan,Changchun Yatai,8,1
+2425,CSL,28/09/2024,Nantong Zhiyun,Zhejiang,3,2
+2425,CSL,28/09/2024,Shenzhen Xinpengcheng,Shandong Taishan,1,4
+2425,CSL,29/09/2024,Chengdu Rongcheng,Meizhou Hakka,2,0
+2425,CSL,29/09/2024,Tianjin Jinmen Tiger,Cangzhou Mighty Lions,3,2
+2425,CSL,29/09/2024,Wuhan Three Towns,Henan,1,0
+2425,CSL,18/10/2024,Shandong Taishan,Tianjin Jinmen Tiger,4,1
+2425,CSL,18/10/2024,Shanghai Shenhua,Henan,2,1
+2425,CSL,18/10/2024,Wuhan Three Towns,Zhejiang,0,2
+2425,CSL,18/10/2024,Chengdu Rongcheng,Shanghai Port,3,1
+2425,CSL,19/10/2024,Changchun Yatai,Qingdao West Coast,4,0
+2425,CSL,19/10/2024,Beijing Guoan,Qingdao Hainiu,6,0
+2425,CSL,20/10/2024,Cangzhou Mighty Lions,Nantong Zhiyun,0,0
+2425,CSL,20/10/2024,Shenzhen Xinpengcheng,Meizhou Hakka,0,0
+2425,CSL,27/10/2024,Cangzhou Mighty Lions,Shanghai Port,0,1
+2425,CSL,27/10/2024,Henan,Changchun Yatai,0,0
+2425,CSL,27/10/2024,Meizhou Hakka,Wuhan Three Towns,1,0
+2425,CSL,27/10/2024,Nantong Zhiyun,Beijing Guoan,1,3
+2425,CSL,27/10/2024,Qingdao West Coast,Chengdu Rongcheng,1,1
+2425,CSL,27/10/2024,Shanghai Shenhua,Shenzhen Xinpengcheng,2,2
+2425,CSL,27/10/2024,Tianjin Jinmen Tiger,Qingdao Hainiu,1,0
+2425,CSL,27/10/2024,Zhejiang,Shandong Taishan,3,3
+2425,CSL,02/11/2024,Beijing Guoan,Henan,1,1
+2425,CSL,02/11/2024,Changchun Yatai,Zhejiang,2,2
+2425,CSL,02/11/2024,Chengdu Rongcheng,Shanghai Shenhua,1,2
+2425,CSL,02/11/2024,Qingdao Hainiu,Cangzhou Mighty Lions,1,0
+2425,CSL,02/11/2024,Shandong Taishan,Meizhou Hakka,2,1
+2425,CSL,02/11/2024,Shanghai Port,Tianjin Jinmen Tiger,5,0
+2425,CSL,02/11/2024,Shenzhen Xinpengcheng,Nantong Zhiyun,2,1
+2425,CSL,02/11/2024,Wuhan Three Towns,Qingdao West Coast,1,3
+2526,CSL,22/02/2025,Chengdu Rongcheng,Wuhan Three Towns,1,0
+2526,CSL,22/02/2025,Shanghai Shenhua,Changchun Yatai,2,1
+2526,CSL,22/02/2025,Yunnan Yukun,Beijing Guoan,0,2
+2526,CSL,23/02/2025,Qingdao Hainiu,Qingdao West Coast,2,2
+2526,CSL,23/02/2025,Shandong Taishan,Henan,0,0
+2526,CSL,23/02/2025,Tianjin Jinmen Tiger,Meizhou Hakka,2,2
+2526,CSL,23/02/2025,Zhejiang,Dalian Yingbo,1,1
+2526,CSL,23/02/2025,Shanghai Port,Shenzhen Xinpengcheng,3,1
+2526,CSL,28/02/2025,Shandong Taishan,Dalian Yingbo,4,1
+2526,CSL,28/02/2025,Shanghai Port,Changchun Yatai,2,0
+2526,CSL,01/03/2025,Qingdao Hainiu,Shenzhen Xinpengcheng,0,1
+2526,CSL,01/03/2025,Meizhou Hakka,Henan,2,1
+2526,CSL,01/03/2025,Shanghai Shenhua,Beijing Guoan,2,2
+2526,CSL,01/03/2025,Yunnan Yukun,Zhejiang,1,1
+2526,CSL,02/03/2025,Chengdu Rongcheng,Tianjin Jinmen Tiger,1,2
+2526,CSL,03/03/2025,Qingdao West Coast,Wuhan Three Towns,2,0
+2526,CSL,28/03/2025,Qingdao West Coast,Shanghai Port,3,3
+2526,CSL,28/03/2025,Wuhan Three Towns,Zhejiang,0,4
+2526,CSL,28/03/2025,Shenzhen Xinpengcheng,Yunnan Yukun,3,4
+2526,CSL,29/03/2025,Dalian Yingbo,Changchun Yatai,2,0
+2526,CSL,29/03/2025,Tianjin Jinmen Tiger,Qingdao Hainiu,1,0
+2526,CSL,29/03/2025,Henan,Shanghai Shenhua,1,3
+2526,CSL,29/03/2025,Meizhou Hakka,Shandong Taishan,3,4
+2526,CSL,29/03/2025,Beijing Guoan,Chengdu Rongcheng,1,1
+2526,CSL,01/04/2025,Henan,Qingdao West Coast,2,3
+2526,CSL,01/04/2025,Zhejiang,Shenzhen Xinpengcheng,3,0
+2526,CSL,02/04/2025,Changchun Yatai,Wuhan Three Towns,1,1
+2526,CSL,02/04/2025,Shanghai Shenhua,Yunnan Yukun,3,1
+2526,CSL,02/04/2025,Qingdao Hainiu,Dalian Yingbo,1,1
+2526,CSL,02/04/2025,Shandong Taishan,Chengdu Rongcheng,0,3
+2526,CSL,02/04/2025,Tianjin Jinmen Tiger,Beijing Guoan,2,2
+2526,CSL,02/04/2025,Shanghai Port,Meizhou Hakka,2,1
+2526,CSL,05/04/2025,Shenzhen Xinpengcheng,Henan,1,3
+2526,CSL,06/04/2025,Changchun Yatai,Shandong Taishan,1,2
+2526,CSL,06/04/2025,Qingdao West Coast,Tianjin Jinmen Tiger,2,2
+2526,CSL,06/04/2025,Chengdu Rongcheng,Dalian Yingbo,2,0
+2526,CSL,06/04/2025,Meizhou Hakka,Wuhan Three Towns,3,1
+2526,CSL,06/04/2025,Beijing Guoan,Zhejiang,2,0
+2526,CSL,06/04/2025,Shanghai Port,Shanghai Shenhua,1,1
+2526,CSL,06/04/2025,Yunnan Yukun,Qingdao Hainiu,1,0
+2526,CSL,11/04/2025,Meizhou Hakka,Changchun Yatai,1,3
+2526,CSL,11/04/2025,Shandong Taishan,Shenzhen Xinpengcheng,4,0
+2526,CSL,12/04/2025,Dalian Yingbo,Tianjin Jinmen Tiger,1,1
+2526,CSL,12/04/2025,Qingdao Hainiu,Chengdu Rongcheng,0,1
+2526,CSL,12/04/2025,Wuhan Three Towns,Yunnan Yukun,3,1
+2526,CSL,12/04/2025,Shanghai Shenhua,Zhejiang,3,2
+2526,CSL,15/04/2025,Qingdao West Coast,Shandong Taishan,1,5
+2526,CSL,15/04/2025,Wuhan Three Towns,Beijing Guoan,4,4
+2526,CSL,15/04/2025,Shenzhen Xinpengcheng,Changchun Yatai,3,1
+2526,CSL,16/04/2025,Tianjin Jinmen Tiger,Shanghai Port,1,4
+2526,CSL,16/04/2025,Dalian Yingbo,Henan,1,0
+2526,CSL,16/04/2025,Zhejiang,Meizhou Hakka,2,2
+2526,CSL,16/04/2025,Chengdu Rongcheng,Yunnan Yukun,1,1
+2526,CSL,16/04/2025,Shanghai Shenhua,Qingdao Hainiu,3,2
+2526,CSL,19/04/2025,Shanghai Shenhua,Wuhan Three Towns,2,0
+2526,CSL,19/04/2025,Beijing Guoan,Shandong Taishan,6,1
+2526,CSL,20/04/2025,Changchun Yatai,Yunnan Yukun,0,0
+2526,CSL,20/04/2025,Henan,Qingdao Hainiu,3,1
+2526,CSL,20/04/2025,Qingdao West Coast,Dalian Yingbo,2,0
+2526,CSL,20/04/2025,Meizhou Hakka,Shenzhen Xinpengcheng,3,0
+2526,CSL,20/04/2025,Shanghai Port,Chengdu Rongcheng,1,3
+2526,CSL,20/04/2025,Tianjin Jinmen Tiger,Zhejiang,2,0
+2526,CSL,25/04/2025,Beijing Guoan,Henan,1,0
+2526,CSL,25/04/2025,Yunnan Yukun,Shanghai Port,2,3
+2526,CSL,26/04/2025,Changchun Yatai,Chengdu Rongcheng,1,2
+2526,CSL,26/04/2025,Shenzhen Xinpengcheng,Dalian Yingbo,1,1
+2526,CSL,26/04/2025,Shandong Taishan,Shanghai Shenhua,0,1
+2526,CSL,27/04/2025,Wuhan Three Towns,Tianjin Jinmen Tiger,2,1
+2526,CSL,27/04/2025,Qingdao Hainiu,Meizhou Hakka,1,1
+2526,CSL,27/04/2025,Zhejiang,Qingdao West Coast,2,1
+2526,CSL,01/05/2025,Dalian Yingbo,Yunnan Yukun,3,2
+2526,CSL,01/05/2025,Shenzhen Xinpengcheng,Tianjin Jinmen Tiger,1,0
+2526,CSL,01/05/2025,Henan,Wuhan Three Towns,1,2
+2526,CSL,01/05/2025,Zhejiang,Changchun Yatai,4,2
+2526,CSL,01/05/2025,Shandong Taishan,Qingdao Hainiu,1,1
+2526,CSL,01/05/2025,Shanghai Port,Beijing Guoan,1,2
+2526,CSL,02/05/2025,Qingdao West Coast,Meizhou Hakka,3,1
+2526,CSL,02/05/2025,Chengdu Rongcheng,Shanghai Shenhua,1,0
+2526,CSL,05/05/2025,Dalian Yingbo,Beijing Guoan,0,2
+2526,CSL,05/05/2025,Henan,Tianjin Jinmen Tiger,3,4
+2526,CSL,05/05/2025,Wuhan Three Towns,Shanghai Port,0,2
+2526,CSL,05/05/2025,Chengdu Rongcheng,Zhejiang,2,1
+2526,CSL,05/05/2025,Qingdao Hainiu,Changchun Yatai,3,0
+2526,CSL,05/05/2025,Yunnan Yukun,Shandong Taishan,3,2
+2526,CSL,06/05/2025,Meizhou Hakka,Shanghai Shenhua,1,3
+2526,CSL,06/05/2025,Qingdao West Coast,Shenzhen Xinpengcheng,0,0
+2526,CSL,09/05/2025,Shanghai Port,Qingdao Hainiu,3,1
+2526,CSL,10/05/2025,Shanghai Shenhua,Qingdao West Coast,4,0
+2526,CSL,10/05/2025,Meizhou Hakka,Chengdu Rongcheng,0,4
+2526,CSL,10/05/2025,Shandong Taishan,Zhejiang,4,2
+2526,CSL,10/05/2025,Beijing Guoan,Shenzhen Xinpengcheng,3,1
+2526,CSL,11/05/2025,Changchun Yatai,Henan,0,1
+2526,CSL,11/05/2025,Tianjin Jinmen Tiger,Yunnan Yukun,0,1
+2526,CSL,11/05/2025,Wuhan Three Towns,Dalian Yingbo,2,2
+2526,CSL,16/05/2025,Zhejiang,Henan,2,2
+2526,CSL,16/05/2025,Yunnan Yukun,Meizhou Hakka,2,0
+2526,CSL,17/05/2025,Dalian Yingbo,Shanghai Shenhua,0,3
+2526,CSL,17/05/2025,Changchun Yatai,Tianjin Jinmen Tiger,1,2
+2526,CSL,17/05/2025,Chengdu Rongcheng,Qingdao West Coast,1,1
+2526,CSL,17/05/2025,Qingdao Hainiu,Beijing Guoan,1,1
+2526,CSL,17/05/2025,Shanghai Port,Shandong Taishan,1,1
+2526,CSL,13/06/2025,Dalian Yingbo,Meizhou Hakka,1,0
+2526,CSL,13/06/2025,Wuhan Three Towns,Qingdao Hainiu,2,0
+2526,CSL,14/06/2025,Zhejiang,Shanghai Port,2,2
+2526,CSL,14/06/2025,Beijing Guoan,Changchun Yatai,2,1
+2526,CSL,14/06/2025,Qingdao West Coast,Yunnan Yukun,0,0
+2526,CSL,14/06/2025,Henan,Chengdu Rongcheng,3,2
+2526,CSL,14/06/2025,Shenzhen Xinpengcheng,Shanghai Shenhua,3,1
+2526,CSL,14/06/2025,Tianjin Jinmen Tiger,Shandong Taishan,1,0
+2526,CSL,17/06/2025,Beijing Guoan,Qingdao West Coast,1,0
+2526,CSL,18/06/2025,Henan,Shanghai Port,1,3
+2526,CSL,18/06/2025,Shenzhen Xinpengcheng,Wuhan Three Towns,1,2
+2526,CSL,25/06/2025,Qingdao Hainiu,Zhejiang,0,3
+2526,CSL,25/06/2025,Shanghai Shenhua,Tianjin Jinmen Tiger,3,0
+2526,CSL,25/06/2025,Changchun Yatai,Qingdao West Coast,1,0
+2526,CSL,25/06/2025,Meizhou Hakka,Beijing Guoan,0,4
+2526,CSL,25/06/2025,Shandong Taishan,Wuhan Three Towns,3,1
+2526,CSL,25/06/2025,Chengdu Rongcheng,Shenzhen Xinpengcheng,5,0
+2526,CSL,26/06/2025,Shanghai Port,Dalian Yingbo,3,0
+2526,CSL,26/06/2025,Yunnan Yukun,Henan,2,1
+2526,CSL,29/06/2025,Changchun Yatai,Shanghai Shenhua,1,2
+2526,CSL,29/06/2025,Qingdao West Coast,Qingdao Hainiu,1,0
+2526,CSL,29/06/2025,Meizhou Hakka,Tianjin Jinmen Tiger,1,2
+2526,CSL,29/06/2025,Wuhan Three Towns,Chengdu Rongcheng,2,2
+2526,CSL,30/06/2025,Henan,Shandong Taishan,2,2
+2526,CSL,30/06/2025,Beijing Guoan,Yunnan Yukun,2,1
+2526,CSL,30/06/2025,Dalian Yingbo,Zhejiang,1,0
+2526,CSL,30/06/2025,Shenzhen Xinpengcheng,Shanghai Port,1,2
+2526,CSL,18/07/2025,Changchun Yatai,Shanghai Port,1,3
+2526,CSL,18/07/2025,Wuhan Three Towns,Qingdao West Coast,1,1
+2526,CSL,18/07/2025,Tianjin Jinmen Tiger,Chengdu Rongcheng,2,1
+2526,CSL,18/07/2025,Zhejiang,Yunnan Yukun,3,1
+2526,CSL,19/07/2025,Dalian Yingbo,Shandong Taishan,2,0
+2526,CSL,19/07/2025,Beijing Guoan,Shanghai Shenhua,1,3
+2526,CSL,19/07/2025,Shenzhen Xinpengcheng,Qingdao Hainiu,4,0
+2526,CSL,19/07/2025,Henan,Meizhou Hakka,1,1
+2526,CSL,26/07/2025,Shanghai Port,Qingdao West Coast,2,2
+2526,CSL,26/07/2025,Chengdu Rongcheng,Beijing Guoan,2,0
+2526,CSL,26/07/2025,Yunnan Yukun,Shenzhen Xinpengcheng,3,1
+2526,CSL,27/07/2025,Changchun Yatai,Dalian Yingbo,0,2
+2526,CSL,27/07/2025,Qingdao Hainiu,Tianjin Jinmen Tiger,2,0
+2526,CSL,27/07/2025,Shanghai Shenhua,Henan,3,2
+2526,CSL,27/07/2025,Zhejiang,Wuhan Three Towns,3,2
+2526,CSL,27/07/2025,Shandong Taishan,Meizhou Hakka,3,0
+2526,CSL,02/08/2025,Yunnan Yukun,Shanghai Shenhua,4,4
+2526,CSL,02/08/2025,Chengdu Rongcheng,Shandong Taishan,2,1
+2526,CSL,02/08/2025,Qingdao West Coast,Henan,2,1
+2526,CSL,02/08/2025,Meizhou Hakka,Shanghai Port,2,4
+2526,CSL,03/08/2025,Dalian Yingbo,Qingdao Hainiu,2,0
+2526,CSL,03/08/2025,Beijing Guoan,Tianjin Jinmen Tiger,2,2
+2526,CSL,03/08/2025,Wuhan Three Towns,Changchun Yatai,0,0
+2526,CSL,03/08/2025,Shenzhen Xinpengcheng,Zhejiang,2,4
+2526,CSL,08/08/2025,Dalian Yingbo,Chengdu Rongcheng,0,2
+2526,CSL,08/08/2025,Henan,Shenzhen Xinpengcheng,4,1
+2526,CSL,09/08/2025,Shandong Taishan,Changchun Yatai,2,1
+2526,CSL,09/08/2025,Shanghai Shenhua,Shanghai Port,1,2
+2526,CSL,09/08/2025,Qingdao Hainiu,Yunnan Yukun,5,1
+2526,CSL,10/08/2025,Tianjin Jinmen Tiger,Qingdao West Coast,0,0
+2526,CSL,10/08/2025,Zhejiang,Beijing Guoan,3,4
+2526,CSL,10/08/2025,Wuhan Three Towns,Meizhou Hakka,1,2
+2526,CSL,15/08/2025,Shanghai Port,Henan,4,1
+2526,CSL,15/08/2025,Yunnan Yukun,Wuhan Three Towns,2,1
+2526,CSL,16/08/2025,Tianjin Jinmen Tiger,Dalian Yingbo,2,0
+2526,CSL,16/08/2025,Changchun Yatai,Meizhou Hakka,1,0
+2526,CSL,16/08/2025,Qingdao West Coast,Beijing Guoan,1,3
+2526,CSL,16/08/2025,Shenzhen Xinpengcheng,Shandong Taishan,1,3
+2526,CSL,16/08/2025,Zhejiang,Shanghai Shenhua,0,0
+2526,CSL,16/08/2025,Chengdu Rongcheng,Qingdao Hainiu,0,0
+2526,CSL,20/08/2025,Zhejiang,Tianjin Jinmen Tiger,2,0
+2526,CSL,23/08/2025,Qingdao Hainiu,Shanghai Shenhua,0,2
+2526,CSL,23/08/2025,Yunnan Yukun,Chengdu Rongcheng,1,5
+2526,CSL,24/08/2025,Changchun Yatai,Shenzhen Xinpengcheng,1,0
+2526,CSL,24/08/2025,Meizhou Hakka,Zhejiang,2,2
+2526,CSL,24/08/2025,Shanghai Port,Tianjin Jinmen Tiger,1,1
+2526,CSL,24/08/2025,Henan,Dalian Yingbo,4,0
+2526,CSL,24/08/2025,Shandong Taishan,Qingdao West Coast,3,2
+2526,CSL,25/08/2025,Beijing Guoan,Wuhan Three Towns,4,0
+2526,CSL,29/08/2025,Qingdao Hainiu,Henan,1,1
+2526,CSL,30/08/2025,Chengdu Rongcheng,Shanghai Port,4,1
+2526,CSL,30/08/2025,Yunnan Yukun,Changchun Yatai,1,1
+2526,CSL,31/08/2025,Wuhan Three Towns,Shanghai Shenhua,1,0
+2526,CSL,31/08/2025,Shandong Taishan,Beijing Guoan,6,0
+2526,CSL,31/08/2025,Shenzhen Xinpengcheng,Meizhou Hakka,2,0
+2526,CSL,12/09/2025,Shanghai Port,Yunnan Yukun,4,2
+2526,CSL,12/09/2025,Chengdu Rongcheng,Changchun Yatai,1,0
+2526,CSL,12/09/2025,Henan,Beijing Guoan,2,0
+2526,CSL,12/09/2025,Shanghai Shenhua,Shandong Taishan,3,3
+2526,CSL,13/09/2025,Qingdao West Coast,Zhejiang,0,2
+2526,CSL,14/09/2025,Dalian Yingbo,Shenzhen Xinpengcheng,2,1
+2526,CSL,14/09/2025,Tianjin Jinmen Tiger,Wuhan Three Towns,4,0
+2526,CSL,19/09/2025,Wuhan Three Towns,Henan,2,5
+2526,CSL,19/09/2025,Yunnan Yukun,Dalian Yingbo,1,1
+2526,CSL,20/09/2025,Changchun Yatai,Zhejiang,3,3
+2526,CSL,20/09/2025,Meizhou Hakka,Qingdao West Coast,1,2
+2526,CSL,20/09/2025,Qingdao Hainiu,Shandong Taishan,2,2
+2526,CSL,21/09/2025,Beijing Guoan,Shanghai Port,2,3
+2526,CSL,21/09/2025,Tianjin Jinmen Tiger,Shenzhen Xinpengcheng,1,0
+2526,CSL,21/09/2025,Shanghai Shenhua,Chengdu Rongcheng,1,1
+2526,CSL,26/09/2025,Shanghai Shenhua,Meizhou Hakka,6,1
+2526,CSL,26/09/2025,Beijing Guoan,Dalian Yingbo,4,2
+2526,CSL,26/09/2025,Shanghai Port,Wuhan Three Towns,3,2
+2526,CSL,26/09/2025,Zhejiang,Chengdu Rongcheng,3,3
+2526,CSL,27/09/2025,Changchun Yatai,Qingdao Hainiu,2,2
+2526,CSL,28/09/2025,Tianjin Jinmen Tiger,Henan,1,0
+2526,CSL,28/09/2025,Shenzhen Xinpengcheng,Qingdao West Coast,1,2
+2526,CSL,04/10/2025,Meizhou Hakka,Qingdao Hainiu,1,0
+2526,CSL,04/10/2025,Dalian Yingbo,Qingdao West Coast,0,2
+2526,CSL,04/10/2025,Shandong Taishan,Yunnan Yukun,1,1
+2526,CSL,17/10/2025,Qingdao Hainiu,Shanghai Port,3,4
+2526,CSL,17/10/2025,Chengdu Rongcheng,Meizhou Hakka,3,1
+2526,CSL,17/10/2025,Qingdao West Coast,Shanghai Shenhua,1,2
+2526,CSL,18/10/2025,Shenzhen Xinpengcheng,Beijing Guoan,2,1
+2526,CSL,18/10/2025,Zhejiang,Shandong Taishan,2,2
+2526,CSL,18/10/2025,Yunnan Yukun,Tianjin Jinmen Tiger,2,0
+2526,CSL,19/10/2025,Dalian Yingbo,Wuhan Three Towns,0,0
+2526,CSL,19/10/2025,Henan,Changchun Yatai,2,0
+2526,CSL,24/10/2025,Meizhou Hakka,Yunnan Yukun,1,4
+2526,CSL,24/10/2025,Wuhan Three Towns,Shenzhen Xinpengcheng,1,2
+2526,CSL,25/10/2025,Tianjin Jinmen Tiger,Changchun Yatai,2,2
+2526,CSL,25/10/2025,Henan,Zhejiang,2,2
+2526,CSL,26/10/2025,Shandong Taishan,Shanghai Port,3,1
+2526,CSL,26/10/2025,Qingdao West Coast,Chengdu Rongcheng,2,2
+2526,CSL,26/10/2025,Beijing Guoan,Qingdao Hainiu,2,4
+2526,CSL,26/10/2025,Shanghai Shenhua,Dalian Yingbo,2,2
+2526,CSL,31/10/2025,Shanghai Port,Zhejiang,3,0
+2526,CSL,31/10/2025,Chengdu Rongcheng,Henan,1,2
+2526,CSL,31/10/2025,Shanghai Shenhua,Shenzhen Xinpengcheng,1,0
+2526,CSL,01/11/2025,Changchun Yatai,Beijing Guoan,0,4
+2526,CSL,01/11/2025,Shandong Taishan,Tianjin Jinmen Tiger,2,1
+2526,CSL,01/11/2025,Meizhou Hakka,Dalian Yingbo,2,2
+2526,CSL,02/11/2025,Qingdao Hainiu,Wuhan Three Towns,1,0
+2526,CSL,02/11/2025,Yunnan Yukun,Qingdao West Coast,1,0
+2526,CSL,22/11/2025,Beijing Guoan,Meizhou Hakka,5,1
+2526,CSL,22/11/2025,Dalian Yingbo,Shanghai Port,0,1
+2526,CSL,22/11/2025,Henan,Yunnan Yukun,1,1
+2526,CSL,22/11/2025,Qingdao West Coast,Changchun Yatai,1,0
+2526,CSL,22/11/2025,Shenzhen Xinpengcheng,Chengdu Rongcheng,1,1
+2526,CSL,22/11/2025,Tianjin Jinmen Tiger,Shanghai Shenhua,1,3
+2526,CSL,22/11/2025,Wuhan Three Towns,Shandong Taishan,1,5
+2526,CSL,22/11/2025,Zhejiang,Qingdao Hainiu,2,2
+2627,CSL,06/03/2026,Chengdu Rongcheng,Shenzhen Xinpengcheng,5,1
+2627,CSL,07/03/2026,Shandong Taishan,Liaoning Tieren,3,0
+2627,CSL,07/03/2026,Tianjin Jinmen Tiger,Chongqing Tonglianglong,0,0
+2627,CSL,07/03/2026,Shanghai Shenhua,Dalian Yingbo,5,3
+2627,CSL,07/03/2026,Shanghai Port,Henan,1,2
+2627,CSL,07/03/2026,Yunnan Yukun,Qingdao Hainiu,3,1
+2627,CSL,08/03/2026,Zhejiang,Qingdao West Coast,2,0
+2627,CSL,08/03/2026,Wuhan Three Towns,Beijing Guoan,0,2
+2627,CSL,13/03/2026,Wuhan Three Towns,Dalian Yingbo,4,1
+2627,CSL,14/03/2026,Shandong Taishan,Beijing Guoan,2,1
+2627,CSL,14/03/2026,Zhejiang,Shanghai Shenhua,1,1
+2627,CSL,14/03/2026,Chongqing Tonglianglong,Liaoning Tieren,1,0
+2627,CSL,14/03/2026,Shenzhen Xinpengcheng,Tianjin Jinmen Tiger,1,0
+2627,CSL,15/03/2026,Henan,Yunnan Yukun,2,1
+2627,CSL,15/03/2026,Shanghai Port,Qingdao West Coast,4,1
+2627,CSL,15/03/2026,Chengdu Rongcheng,Qingdao Hainiu,1,0
+2627,CSL,20/03/2026,Dalian Yingbo,Shanghai Port,1,0
+2627,CSL,20/03/2026,Qingdao Hainiu,Zhejiang,1,4
+2627,CSL,21/03/2026,Beijing Guoan,Shanghai Shenhua,1,1
+2627,CSL,21/03/2026,Liaoning Tieren,Tianjin Jinmen Tiger,3,0
+2627,CSL,21/03/2026,Henan,Wuhan Three Towns,1,1
+2627,CSL,21/03/2026,Chongqing Tonglianglong,Chengdu Rongcheng,3,3
+2627,CSL,21/03/2026,Qingdao West Coast,Shenzhen Xinpengcheng,1,0
+2627,CSL,21/03/2026,Yunnan Yukun,Shandong Taishan,4,0
+2627,CSL,03/04/2026,Chengdu Rongcheng,Qingdao West Coast,5,1
+2627,CSL,04/04/2026,Liaoning Tieren,Beijing Guoan,2,1
+2627,CSL,04/04/2026,Qingdao Hainiu,Henan,1,0
+2627,CSL,04/04/2026,Shandong Taishan,Dalian Yingbo,1,2
+2627,CSL,04/04/2026,Shanghai Port,Yunnan Yukun,2,1
+2627,CSL,05/04/2026,Zhejiang,Chongqing Tonglianglong,0,1
+2627,CSL,05/04/2026,Shenzhen Xinpengcheng,Wuhan Three Towns,5,2
+2627,CSL,05/04/2026,Tianjin Jinmen Tiger,Shanghai Shenhua,2,3
+2627,CSL,10/04/2026,Dalian Yingbo,Zhejiang,3,0
+2627,CSL,11/04/2026,Chongqing Tonglianglong,Wuhan Three Towns,2,1
+2627,CSL,11/04/2026,Qingdao West Coast,Liaoning Tieren,1,1
+2627,CSL,11/04/2026,Henan,Shandong Taishan,0,1
+2627,CSL,11/04/2026,Shanghai Shenhua,Shanghai Port,1,0
+2627,CSL,12/04/2026,Tianjin Jinmen Tiger,Qingdao Hainiu,1,1
+2627,CSL,12/04/2026,Beijing Guoan,Chengdu Rongcheng,1,2
+2627,CSL,12/04/2026,Shenzhen Xinpengcheng,Yunnan Yukun,3,4
+2627,CSL,17/04/2026,Qingdao Hainiu,Qingdao West Coast,0,0
+2627,CSL,17/04/2026,Chongqing Tonglianglong,Shenzhen Xinpengcheng,2,0
+2627,CSL,17/04/2026,Shandong Taishan,Shanghai Port,1,1
+2627,CSL,17/04/2026,Wuhan Three Towns,Chengdu Rongcheng,0,1
+2627,CSL,17/04/2026,Yunnan Yukun,Tianjin Jinmen Tiger,0,3
+2627,CSL,17/04/2026,Zhejiang,Beijing Guoan,0,0
+2627,CSL,18/04/2026,Dalian Yingbo,Henan,2,1
+2627,CSL,18/04/2026,Shanghai Shenhua,Liaoning Tieren,3,1
+2627,CSL,21/04/2026,Shenzhen Xinpengcheng,Beijing Guoan,0,1
+2627,CSL,21/04/2026,Chengdu Rongcheng,Yunnan Yukun,2,1
+2627,CSL,21/04/2026,Wuhan Three Towns,Zhejiang,2,0
+2627,CSL,21/04/2026,Shanghai Port,Chongqing Tonglianglong,1,2
+2627,CSL,21/04/2026,Tianjin Jinmen Tiger,Shandong Taishan,1,2
+2627,CSL,22/04/2026,Liaoning Tieren,Dalian Yingbo,0,1
+2627,CSL,22/04/2026,Qingdao West Coast,Henan,0,0
+2627,CSL,22/04/2026,Shanghai Shenhua,Qingdao Hainiu,2,0
+2627,CSL,25/04/2026,Chengdu Rongcheng,Zhejiang,4,0
+2627,CSL,25/04/2026,Beijing Guoan,Tianjin Jinmen Tiger,2,4
+2627,CSL,25/04/2026,Shanghai Port,Wuhan Three Towns,4,0
+2627,CSL,26/04/2026,Qingdao Hainiu,Shandong Taishan,4,1
+2627,CSL,26/04/2026,Chongqing Tonglianglong,Qingdao West Coast,1,1
+2627,CSL,26/04/2026,Shenzhen Xinpengcheng,Liaoning Tieren,1,0
+2627,CSL,26/04/2026,Dalian Yingbo,Yunnan Yukun,1,3
+2627,CSL,26/04/2026,Henan,Shanghai Shenhua,0,3
+2627,CSL,01/05/2026,Dalian Yingbo,Chongqing Tonglianglong,1,0
+2627,CSL,01/05/2026,Henan,Liaoning Tieren,4,0
+2627,CSL,01/05/2026,Shandong Taishan,Qingdao West Coast,1,1
+2627,CSL,01/05/2026,Tianjin Jinmen Tiger,Wuhan Three Towns,2,2
+2627,CSL,01/05/2026,Shanghai Shenhua,Chengdu Rongcheng,2,3
+2627,CSL,02/05/2026,Qingdao Hainiu,Shanghai Port,3,1
+2627,CSL,02/05/2026,Zhejiang,Shenzhen Xinpengcheng,2,1
+2627,CSL,02/05/2026,Yunnan Yukun,Beijing Guoan,3,3
+2627,CSL,05/05/2026,Qingdao West Coast,Tianjin Jinmen Tiger,1,1
+2627,CSL,05/05/2026,Liaoning Tieren,Chengdu Rongcheng,0,1
+2627,CSL,05/05/2026,Shandong Taishan,Shanghai Shenhua,4,1
+2627,CSL,05/05/2026,Chongqing Tonglianglong,Henan,1,1
+2627,CSL,06/05/2026,Wuhan Three Towns,Qingdao Hainiu,1,3
+2627,CSL,06/05/2026,Beijing Guoan,Dalian Yingbo,3,0
+2627,CSL,06/05/2026,Shanghai Port,Shenzhen Xinpengcheng,1,1
+2627,CSL,06/05/2026,Yunnan Yukun,Zhejiang,1,2
+2627,CSL,09/05/2026,Shanghai Shenhua,Chongqing Tonglianglong,2,2
+2627,CSL,09/05/2026,Chengdu Rongcheng,Henan,3,0
+2627,CSL,10/05/2026,Qingdao West Coast,Wuhan Three Towns,1,1
+2627,CSL,10/05/2026,Shenzhen Xinpengcheng,Shandong Taishan,1,2
+2627,CSL,10/05/2026,Liaoning Tieren,Yunnan Yukun,1,2
+2627,CSL,10/05/2026,Beijing Guoan,Shanghai Port,2,2
+2627,CSL,10/05/2026,Zhejiang,Tianjin Jinmen Tiger,1,1
+2627,CSL,10/05/2026,Qingdao Hainiu,Dalian Yingbo,3,1
+2627,CSL,15/05/2026,Henan,Shenzhen Xinpengcheng,1,0
+2627,CSL,15/05/2026,Shanghai Port,Zhejiang,2,2
+2627,CSL,15/05/2026,Tianjin Jinmen Tiger,Chengdu Rongcheng,1,2
+2627,CSL,15/05/2026,Beijing Guoan,Qingdao Hainiu,4,2
+2627,CSL,15/05/2026,Dalian Yingbo,Qingdao West Coast,2,3
+2627,CSL,16/05/2026,Wuhan Three Towns,Liaoning Tieren,2,2
+2627,CSL,16/05/2026,Shandong Taishan,Chongqing Tonglianglong,3,1
+2627,CSL,16/05/2026,Yunnan Yukun,Shanghai Shenhua,1,0
+2627,CSL,19/05/2026,Shenzhen Xinpengcheng,Dalian Yingbo,1,1
+2627,CSL,19/05/2026,Tianjin Jinmen Tiger,Henan,1,2
+2627,CSL,19/05/2026,Chengdu Rongcheng,Shanghai Port,0,1
+2627,CSL,19/05/2026,Qingdao West Coast,Beijing Guoan,1,1
+2627,CSL,20/05/2026,Liaoning Tieren,Qingdao Hainiu,2,1
+2627,CSL,20/05/2026,Shanghai Shenhua,Wuhan Three Towns,2,2
+2627,CSL,20/05/2026,Chongqing Tonglianglong,Yunnan Yukun,0,0
+2627,CSL,20/05/2026,Zhejiang,Shandong Taishan,4,1
+2627,CSL,23/05/2026,Shanghai Port,Tianjin Jinmen Tiger,1,1
+2627,CSL,23/05/2026,Beijing Guoan,Henan,1,2
+2627,CSL,23/05/2026,Dalian Yingbo,Chengdu Rongcheng,2,0
+2627,CSL,24/05/2026,Qingdao Hainiu,Chongqing Tonglianglong,0,1
+2627,CSL,24/05/2026,Yunnan Yukun,Qingdao West Coast,2,3
+2627,CSL,24/05/2026,Shandong Taishan,Wuhan Three Towns,3,3
+2627,CSL,24/05/2026,Zhejiang,Liaoning Tieren,0,5
+2627,CSL,24/05/2026,Shanghai Shenhua,Shenzhen Xinpengcheng,1,2
+2627,CSL,29/05/2026,Liaoning Tieren,Shanghai Port,0,0
+2627,CSL,30/05/2026,Qingdao West Coast,Shanghai Shenhua,2,2
+2627,CSL,30/05/2026,Henan,Zhejiang,0,2
+2627,CSL,30/05/2026,Chengdu Rongcheng,Shandong Taishan,1,0
+2627,CSL,30/05/2026,Chongqing Tonglianglong,Beijing Guoan,2,3
+2627,CSL,30/05/2026,Shenzhen Xinpengcheng,Qingdao Hainiu,3,2
+2627,CSL,31/05/2026,Tianjin Jinmen Tiger,Dalian Yingbo,1,0
+2627,CSL,31/05/2026,Wuhan Three Towns,Yunnan Yukun,1,1
+2627,CSL,26/06/2026,Qingdao Hainiu,Yunnan Yukun,4,2
+2627,CSL,27/06/2026,Liaoning Tieren,Shandong Taishan,1,5
+2627,CSL,27/06/2026,Henan,Shanghai Port,1,2
+2627,CSL,27/06/2026,Shenzhen Xinpengcheng,Chengdu Rongcheng,2,3
+2627,CSL,27/06/2026,Beijing Guoan,Wuhan Three Towns,1,0
+2627,CSL,27/06/2026,Chongqing Tonglianglong,Tianjin Jinmen Tiger,1,0
+2627,CSL,28/06/2026,Qingdao West Coast,Zhejiang,3,1
+2627,CSL,28/06/2026,Dalian Yingbo,Shanghai Shenhua,1,4
+2627,CSL,03/07/2026,Yunnan Yukun,Henan,2,1
+2627,CSL,04/07/2026,Liaoning Tieren,Chongqing Tonglianglong,3,1
+2627,CSL,04/07/2026,Qingdao West Coast,Shanghai Port,2,1
+2627,CSL,04/07/2026,Beijing Guoan,Shandong Taishan,2,0
+2627,CSL,04/07/2026,Dalian Yingbo,Wuhan Three Towns,3,2
+2627,CSL,04/07/2026,Tianjin Jinmen Tiger,Shenzhen Xinpengcheng,3,0
+2627,CSL,05/07/2026,Qingdao Hainiu,Chengdu Rongcheng,1,1
+2627,CSL,05/07/2026,Shanghai Shenhua,Zhejiang,3,2
+2627,CSL,10/07/2026,Shandong Taishan,Yunnan Yukun,4,3
+2627,CSL,11/07/2026,Shenzhen Xinpengcheng,Qingdao West Coast,3,0
+2627,CSL,11/07/2026,Chengdu Rongcheng,Chongqing Tonglianglong,1,1
+2627,CSL,14/07/2026,Zhejiang,Qingdao Hainiu,3,2
+2627,CSL,17/07/2026,Qingdao West Coast,Chengdu Rongcheng,1,1
+2627,CSL,17/07/2026,Beijing Guoan,Liaoning Tieren,1,1
+2627,CSL,17/07/2026,Henan,Qingdao Hainiu,5,1
+2627,CSL,17/07/2026,Yunnan Yukun,Shanghai Port,2,2
+2627,CSL,18/07/2026,Chongqing Tonglianglong,Zhejiang,1,1
+2627,CSL,18/07/2026,Dalian Yingbo,Shandong Taishan,3,1
+2627,CSL,18/07/2026,Shanghai Shenhua,Tianjin Jinmen Tiger,0,2
+2627,CSL,18/07/2026,Wuhan Three Towns,Shenzhen Xinpengcheng,2,0
+2627,CSL,25/07/2026,Qingdao Hainiu,Tianjin Jinmen Tiger,0,2
+2627,CSL,25/07/2026,Liaoning Tieren,Qingdao West Coast,0,1
+2627,CSL,25/07/2026,Shanghai Port,Shanghai Shenhua,2,0
+2627,CSL,25/07/2026,Wuhan Three Towns,Chongqing Tonglianglong,1,0
+2627,CSL,26/07/2026,Yunnan Yukun,Shenzhen Xinpengcheng,4,3
+2627,CSL,26/07/2026,Chengdu Rongcheng,Beijing Guoan,2,2
+2627,CSL,26/07/2026,Shandong Taishan,Henan,1,2
+2627,CSL,26/07/2026,Zhejiang,Dalian Yingbo,3,2
+2627,CSL,31/07/2026,Henan,Dalian Yingbo,1,1
+2627,CSL,01/08/2026,Tianjin Jinmen Tiger,Yunnan Yukun,3,2
+2627,CSL,01/08/2026,Beijing Guoan,Zhejiang,2,1
+2627,CSL,01/08/2026,Shanghai Port,Shandong Taishan,0,1
+2627,CSL,01/08/2026,Chengdu Rongcheng,Wuhan Three Towns,1,1
+2627,CSL,02/08/2026,Qingdao West Coast,Qingdao Hainiu,2,0
+2627,CSL,02/08/2026,Liaoning Tieren,Shanghai Shenhua,3,1
+2627,CSL,02/08/2026,Shenzhen Xinpengcheng,Chongqing Tonglianglong,2,0
+2627,CSL,07/08/2026,Beijing Guoan,Shenzhen Xinpengcheng,4,0
+2627,CSL,08/08/2026,Qingdao Hainiu,Shanghai Shenhua,0,1
+2627,CSL,08/08/2026,Dalian Yingbo,Liaoning Tieren,1,0
+2627,CSL,08/08/2026,Yunnan Yukun,Chengdu Rongcheng,1,0
+2627,CSL,09/08/2026,Henan,Qingdao West Coast,0,0
+2627,CSL,09/08/2026,Chongqing Tonglianglong,Shanghai Port,2,3
+2627,CSL,09/08/2026,Shandong Taishan,Tianjin Jinmen Tiger,2,1
+2627,CSL,14/08/2026,Shandong Taishan,Qingdao Hainiu,3,1
+2627,CSL,14/08/2026,Wuhan Three Towns,Shanghai Port,2,3
+2627,CSL,14/08/2026,Qingdao West Coast,Chongqing Tonglianglong,0,0
+2627,CSL,15/08/2026,Liaoning Tieren,Shenzhen Xinpengcheng,1,2
+2627,CSL,15/08/2026,Tianjin Jinmen Tiger,Beijing Guoan,2,4
+2627,CSL,15/08/2026,Zhejiang,Chengdu Rongcheng,2,3
+2627,CSL,15/08/2026,Shanghai Shenhua,Henan,4,1
+2627,CSL,15/08/2026,Yunnan Yukun,Dalian Yingbo,3,1
+2627,CSL,18/08/2026,Shanghai Shenhua,Beijing Guoan,0,3
+2627,CSL,19/08/2026,Shanghai Port,Dalian Yingbo,1,1
+2627,CSL,22/08/2026,Wuhan Three Towns,Tianjin Jinmen Tiger,0,0
+2627,CSL,22/08/2026,Chengdu Rongcheng,Shanghai Shenhua,4,5
+2627,CSL,22/08/2026,Shenzhen Xinpengcheng,Zhejiang,1,1
+2627,CSL,22/08/2026,Beijing Guoan,Yunnan Yukun,3,3
+2627,CSL,22/08/2026,Qingdao West Coast,Shandong Taishan,2,0
+2627,CSL,23/08/2026,Liaoning Tieren,Henan,4,4
+2627,CSL,23/08/2026,Shanghai Port,Qingdao Hainiu,2,1
+2627,CSL,23/08/2026,Chongqing Tonglianglong,Dalian Yingbo,0,1
+2627,CSL,28/08/2026,Dalian Yingbo,Beijing Guoan,1,1
+2627,CSL,28/08/2026,Shanghai Shenhua,Shandong Taishan,2,3
+2627,CSL,28/08/2026,Shenzhen Xinpengcheng,Shanghai Port,0,1
+2627,CSL,29/08/2026,Qingdao Hainiu,Wuhan Three Towns,1,5
+2627,CSL,29/08/2026,Tianjin Jinmen Tiger,Qingdao West Coast,1,1
+2627,CSL,29/08/2026,Zhejiang,Yunnan Yukun,6,0
+2627,CSL,29/08/2026,Chengdu Rongcheng,Liaoning Tieren,2,1
+2627,CSL,29/08/2026,Henan,Chongqing Tonglianglong,1,1
+2627,CSL,05/09/2026,Wuhan Three Towns,Qingdao West Coast,2,2
+2627,CSL,05/09/2026,Dalian Yingbo,Qingdao Hainiu,2,1
+2627,CSL,05/09/2026,Shanghai Port,Beijing Guoan,0,0
+2627,CSL,05/09/2026,Shandong Taishan,Shenzhen Xinpengcheng,1,1
+2627,CSL,06/09/2026,Chongqing Tonglianglong,Shanghai Shenhua,1,3
+2627,CSL,06/09/2026,Henan,Chengdu Rongcheng,0,0
+2627,CSL,06/09/2026,Yunnan Yukun,Liaoning Tieren,5,0
+2627,CSL,06/09/2026,Tianjin Jinmen Tiger,Zhejiang,2,1
+2627,CSL,12/09/2026,Tianjin Jinmen Tiger,Liaoning Tieren,1,0
+2627,CSL,12/09/2026,Wuhan Three Towns,Henan,1,1
+2627,CSL,18/09/2026,Zhejiang,Wuhan Three Towns,4,1
+2627,CSL,09/10/2026,Qingdao Hainiu,Beijing Guoan,0,3
+2627,CSL,09/10/2026,Shenzhen Xinpengcheng,Henan,2,2
+2627,CSL,09/10/2026,Zhejiang,Shanghai Port,2,4
+2627,CSL,10/10/2026,Chengdu Rongcheng,Tianjin Jinmen Tiger,0,1
+2627,CSL,10/10/2026,Shanghai Shenhua,Yunnan Yukun,7,1
+2627,CSL,11/10/2026,Qingdao West Coast,Dalian Yingbo,0,4
+2627,CSL,11/10/2026,Chongqing Tonglianglong,Shandong Taishan,1,1
+2627,CSL,11/10/2026,Liaoning Tieren,Wuhan Three Towns,1,1
+2627,CSL,16/10/2026,Henan,Tianjin Jinmen Tiger,0,1
+2627,CSL,17/10/2026,Dalian Yingbo,Shenzhen Xinpengcheng,3,1
+2627,CSL,17/10/2026,Qingdao Hainiu,Liaoning Tieren,0,4
+2627,CSL,17/10/2026,Yunnan Yukun,Chongqing Tonglianglong,1,1
+2627,CSL,17/10/2026,Shandong Taishan,Zhejiang,5,0
+2627,CSL,18/10/2026,Wuhan Three Towns,Shanghai Shenhua,1,3
+2627,CSL,18/10/2026,Beijing Guoan,Qingdao West Coast,1,0
+2627,CSL,18/10/2026,Shanghai Port,Chengdu Rongcheng,3,0
